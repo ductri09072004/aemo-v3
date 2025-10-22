@@ -31,7 +31,7 @@ class Post(BaseModel):
 
 # Fake data
 fake_users = [
-    User(id=1, name="Nguyễn Văn A", email="nguyenvana@emaill.com", age=25, city="Hà Nội"),
+    User(id=1, name="Nguyễn Văn A", email="nguyenvana@emaill.comm", age=25, city="Hà Nội"),
     User(id=2, name="Trần Thị B", email="tranthib@email.com", age=30, city="TP.HCM"),
     User(id=3, name="Lê Văn C", email="levanc@email.com", age=28, city="Đà Nẵng"),
     User(id=4, name="Phạm Thị D", email="phamthid@email.com", age=35, city="Cần Thơ"),
