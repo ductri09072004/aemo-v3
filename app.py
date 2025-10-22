@@ -47,7 +47,7 @@ fake_products = [
 ]
 
 fake_posts = [
-    Post(id=1, title="Học Python cơ bản", content="Python là ngôn ngữ lập trình dễ học...", author="Nguyễn Văn A", created_at="2024-01-15", likes=25),
+    Post(id=1, title="Học Python cơ bản", content="Python là ngôn ngữ lập trình dễ shọc...", author="Nguyễn Văn A", created_at="2024-01-15", likes=25),
     Post(id=2, title="FastAPI Tutorial", content="FastAPI là framework hiện đại cho Python...", author="Trần Thị B", created_at="2024-01-16", likes=18),
     Post(id=3, title="Database Design", content="Thiết kế database là bước quan trọng...", author="Lê Văn C", created_at="2024-01-17", likes=32),
     Post(id=4, title="API Best Practices", content="Một số best practices khi thiết kế API...", author="Phạm Thị D", created_at="2024-01-18", likes=15),
