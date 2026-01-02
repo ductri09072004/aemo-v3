@@ -1,0 +1,300 @@
+1. Actually, …
+2. Anyway, …
+3. Are you available tomorrow?
+4. By the way, …
+5. Can I book a table?
+6. Can I call a taxi?
+7. Can I call you?
+8. Can I cancel it?
+9. Can I change the date?
+10. Can I change the time?
+11. Can I charge my phone?
+12. Can I check in?
+13. Can I check out?
+14. Can I check the price?
+15. Can I close the door?
+16. Can I confirm it?
+17. Can I connect to Wi‑Fi?
+18. Can I exchange it?
+19. Can I explain it again?
+20. Can I fill out this form?
+21. Can I fix this problem?
+22. Can I get a receipt?
+23. Can I get a room?
+24. Can I get a seat?
+25. Can I get a table?
+26. Can I get a taxi?
+27. Can I get a ticket?
+28. Can I get coffee?
+29. Can I get food?
+30. Can I get help?
+31. Can I get tea?
+32. Can I get water?
+33. Can I give me a hand?
+34. Can I help me with this?
+35. Can I make a reservation?
+36. Can I move to the next one?
+37. Can I open the window?
+38. Can I recommend a place?
+39. Can I repeat that?
+40. Can I send me the address?
+41. Can I show me the way?
+42. Can I slow down?
+43. Can I speak louder?
+44. Can I speak slower?
+45. Can I speed up?
+46. Can I start over?
+47. Can I take a picture?
+48. Can I take me to downtown?
+49. Can I take me to the airport?
+50. Can I take me to the bank?
+51. Can I take me to the bus stop?
+52. Can I take me to the hospital?
+53. Can I take me to the hotel?
+54. Can I take me to the mall?
+55. Can I take me to the pharmacy?
+56. Can I take me to the station?
+57. Can I take me to the supermarket?
+58. Can I tell me how to get to downtown?
+59. Can I tell me how to get to the airport?
+60. Can I tell me how to get to the bank?
+61. Can I tell me how to get to the bus stop?
+62. Can I tell me how to get to the hospital?
+63. Can I tell me how to get to the hotel?
+64. Can I tell me how to get to the mall?
+65. Can I tell me how to get to the pharmacy?
+66. Can I tell me how to get to the station?
+67. Can I tell me how to get to the supermarket?
+68. Can I tell me the time?
+69. Can I try it on?
+70. Can I try this again?
+71. Can I try this?
+72. Can I turn off the light?
+73. Can I turn on the light?
+74. Can I wait a minute?
+75. Can I write it down?
+76. Can we talk later?
+77. Can you book a table?
+78. Can you call a taxi?
+79. Can you cancel it?
+80. Can you change the date?
+81. Can you change the time?
+82. Can you charge my phone?
+83. Can you check in?
+84. Can you check out?
+85. Can you check the price?
+86. Can you close the door?
+87. Can you confirm it?
+88. Can you connect to Wi‑Fi?
+89. Can you deliver it?
+90. Can you explain it again?
+91. Can you fill out this form?
+92. Can you fix it?
+93. Can you fix this problem?
+94. Can you get a room?
+95. Can you get a seat?
+96. Can you get a table?
+97. Can you get a taxi?
+98. Can you get a ticket?
+99. Can you get coffee?
+100. Can you get food?
+101. Can you get help?
+102. Can you get tea?
+103. Can you get water?
+104. Can you give me a hand?
+105. Can you give me an example?
+106. Can you help me with this?
+107. Can you make a reservation?
+108. Can you move to the next one?
+109. Can you open the window?
+110. Can you recommend a place?
+111. Can you recommend something?
+112. Can you repeat that?
+113. Can you send me the address?
+114. Can you show me the way?
+115. Can you slow down?
+116. Can you speak louder?
+117. Can you speak slower?
+118. Can you speed up?
+119. Can you start over?
+120. Can you take a picture?
+121. Can you take me to downtown?
+122. Can you take me to the airport?
+123. Can you take me to the bank?
+124. Can you take me to the bus stop?
+125. Can you take me to the hospital?
+126. Can you take me to the hotel?
+127. Can you take me to the mall?
+128. Can you take me to the pharmacy?
+129. Can you take me to the station?
+130. Can you take me to the supermarket?
+131. Can you tell me how to get to downtown?
+132. Can you tell me how to get to the airport?
+133. Can you tell me how to get to the bank?
+134. Can you tell me how to get to the bus stop?
+135. Can you tell me how to get to the hospital?
+136. Can you tell me how to get to the hotel?
+137. Can you tell me how to get to the mall?
+138. Can you tell me how to get to the pharmacy?
+139. Can you tell me how to get to the station?
+140. Can you tell me how to get to the supermarket?
+141. Can you tell me the time?
+142. Can you try this again?
+143. Can you turn off the light?
+144. Can you turn on the light?
+145. Can you wait a minute?
+146. Can you write it down?
+147. Congratulations!
+148. Could I book a table?
+149. Could I call a taxi?
+150. Could I cancel it?
+151. Could I change the date?
+152. Could I change the time?
+153. Could I charge my phone?
+154. Could I check in?
+155. Could I check out?
+156. Could I check the price?
+157. Could I close the door?
+158. Could I confirm it?
+159. Could I connect to Wi‑Fi?
+160. Could I explain it again?
+161. Could I fill out this form?
+162. Could I fix this problem?
+163. Could I get a room?
+164. Could I get a seat?
+165. Could I get a table?
+166. Could I get a taxi?
+167. Could I get a ticket?
+168. Could I get coffee?
+169. Could I get food?
+170. Could I get help?
+171. Could I get tea?
+172. Could I get the bill, please?
+173. Could I get water?
+174. Could I give me a hand?
+175. Could I have the menu, please?
+176. Could I help me with this?
+177. Could I make a reservation?
+178. Could I move to the next one?
+179. Could I open the window?
+180. Could I recommend a place?
+181. Could I repeat that?
+182. Could I send me the address?
+183. Could I show me the way?
+184. Could I slow down?
+185. Could I speak louder?
+186. Could I speak slower?
+187. Could I speed up?
+188. Could I start over?
+189. Could I take a picture?
+190. Could I take me to downtown?
+191. Could I take me to the airport?
+192. Could I take me to the bank?
+193. Could I take me to the bus stop?
+194. Could I take me to the hospital?
+195. Could I take me to the hotel?
+196. Could I take me to the mall?
+197. Could I take me to the pharmacy?
+198. Could I take me to the station?
+199. Could I take me to the supermarket?
+200. Could I tell me how to get to downtown?
+201. Could I tell me how to get to the airport?
+202. Could I tell me how to get to the bank?
+203. Could I tell me how to get to the bus stop?
+204. Could I tell me how to get to the hospital?
+205. Could I tell me how to get to the hotel?
+206. Could I tell me how to get to the mall?
+207. Could I tell me how to get to the pharmacy?
+208. Could I tell me how to get to the station?
+209. Could I tell me how to get to the supermarket?
+210. Could I tell me the time?
+211. Could I try this again?
+212. Could I turn off the light?
+213. Could I turn on the light?
+214. Could I wait a minute?
+215. Could I write it down?
+216. Could you explain that?
+217. Could you lower the price?
+218. Could you please book a table?
+219. Could you please call a taxi?
+220. Could you please cancel it?
+221. Could you please change the date?
+222. Could you please change the time?
+223. Could you please charge my phone?
+224. Could you please check in?
+225. Could you please check out?
+226. Could you please check the price?
+227. Could you please close the door?
+228. Could you please confirm it?
+229. Could you please connect to Wi‑Fi?
+230. Could you please explain it again?
+231. Could you please fill out this form?
+232. Could you please fix this problem?
+233. Could you please get a room?
+234. Could you please get a seat?
+235. Could you please get a table?
+236. Could you please get a taxi?
+237. Could you please get a ticket?
+238. Could you please get coffee?
+239. Could you please get food?
+240. Could you please get help?
+241. Could you please get tea?
+242. Could you please get water?
+243. Could you please give me a hand?
+244. Could you please help me with this?
+245. Could you please make a reservation?
+246. Could you please move to the next one?
+247. Could you please open the window?
+248. Could you please recommend a place?
+249. Could you please repeat that?
+250. Could you please send me the address?
+251. Could you please show me the way?
+252. Could you please slow down?
+253. Could you please speak louder?
+254. Could you please speak slower?
+255. Could you please speed up?
+256. Could you please start over?
+257. Could you please take a picture?
+258. Could you please take me to downtown?
+259. Could you please take me to the airport?
+260. Could you please take me to the bank?
+261. Could you please take me to the bus stop?
+262. Could you please take me to the hospital?
+263. Could you please take me to the hotel?
+264. Could you please take me to the mall?
+265. Could you please take me to the pharmacy?
+266. Could you please take me to the station?
+267. Could you please take me to the supermarket?
+268. Could you please tell me how to get to downtown?
+269. Could you please tell me how to get to the airport?
+270. Could you please tell me how to get to the bank?
+271. Could you please tell me how to get to the bus stop?
+272. Could you please tell me how to get to the hospital?
+273. Could you please tell me how to get to the hotel?
+274. Could you please tell me how to get to the mall?
+275. Could you please tell me how to get to the pharmacy?
+276. Could you please tell me how to get to the station?
+277. Could you please tell me how to get to the supermarket?
+278. Could you please tell me the time?
+279. Could you please try this again?
+280. Could you please turn off the light?
+281. Could you please turn on the light?
+282. Could you please wait a minute?
+283. Could you please write it down?
+284. Could you repeat that?
+285. Could you say that again?
+286. Could you show me on the map?
+287. Could you speak slower?
+288. Do you accept cards?
+289. Do you have any plans in the afternoon?
+290. Do you have any plans in the evening?
+291. Do you have any plans in the morning?
+292. Do you have any plans later?
+293. Do you have any plans next week?
+294. Do you have any plans right now?
+295. Do you have any plans this weekend?
+296. Do you have any plans today?
+297. Do you have any plans tomorrow?
+298. Do you have any siblings?
+299. Do you have this in a different color?
+300. Do you have this in a different size?
