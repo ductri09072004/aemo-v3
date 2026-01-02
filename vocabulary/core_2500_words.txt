@@ -1,2503 +1,2503 @@
-Core 2500 English Words (ranked)
-Format: rank. word
+Core 2500 English Words (ranked) — Vietnamese meanings
+Format: rank. word — nghĩa (ưu tiên nghĩa phổ biến trong giao tiếp)
 
-1. the
-2. to
-3. and
-4. of
-5. a
-6. in
-7. i
-8. is
-9. for
-10. that
-11. you
-12. it
-13. on
-14. with
-15. this
-16. was
-17. be
-18. as
-19. are
-20. have
-21. at
-22. he
-23. not
-24. by
-25. but
-26. from
-27. my
-28. or
-29. we
-30. an
-31. your
-32. all
-33. so
-34. his
-35. they
-36. me
-37. if
-38. one
-39. can
-40. will
-41. just
-42. like
-43. about
-44. up
-45. out
-46. what
-47. has
-48. when
-49. more
-50. do
-51. no
-52. were
-53. who
-54. had
-55. their
-56. there
-57. her
-58. which
-59. time
-60. get
-61. been
-62. would
-63. she
-64. new
-65. people
-66. how
-67. some
-68. also
-69. them
-70. now
-71. other
-72. its
-73. our
-74. than
-75. good
-76. only
-77. after
-78. first
-79. him
-80. into
-81. know
-82. see
-83. two
-84. make
-85. over
-86. think
-87. any
-88. then
-89. could
-90. back
-91. these
-92. us
-93. want
-94. because
-95. go
-96. well
-97. said
-98. way
-99. most
-100. much
-101. very
-102. where
-103. even
-104. should
-105. may
-106. here
-107. need
-108. really
-109. did
-110. right
-111. work
-112. year
-113. years
-114. being
-115. day
-116. too
-117. going
-118. before
-119. off
-120. why
-121. made
-122. still
-123. take
-124. got
-125. many
-126. never
-127. those
-128. life
-129. say
-130. world
-131. down
-132. great
-133. through
-134. last
-135. while
-136. best
-137. such
-138. love
-139. man
-140. home
-141. long
-142. look
-143. something
-144. use
-145. same
-146. used
-147. both
-148. every
-149. am
-150. come
-151. part
-152. state
-153. three
-154. around
-155. between
-156. always
-157. better
-158. find
-159. help
-160. high
-161. little
-162. old
-163. since
-164. another
-165. does
-166. own
-167. things
-168. under
-169. during
-170. game
-171. thing
-172. give
-173. house
-174. place
-175. school
-176. again
-177. next
-178. each
-179. mr
-180. without
-181. against
-182. end
-183. found
-184. must
-185. show
-186. big
-187. feel
-188. sure
-189. team
-190. ever
-191. family
-192. keep
-193. might
-194. please
-195. put
-196. money
-197. free
-198. second
-199. someone
-200. away
-201. left
-202. number
-203. city
-204. days
-205. lot
-206. name
-207. night
-208. play
-209. until
-210. company
-211. doing
-212. few
-213. let
-214. real
-215. called
-216. different
-217. having
-218. set
-219. thought
-220. done
-221. however
-222. getting
-223. god
-224. government
-225. group
-226. looking
-227. public
-228. top
-229. women
-230. business
-231. care
-232. start
-233. system
-234. times
-235. week
-236. already
-237. anything
-238. case
-239. nothing
-240. person
-241. today
-242. change
-243. enough
-244. everything
-245. full
-246. live
-247. making
-248. point
-249. read
-250. told
-251. yet
-252. bad
-253. four
-254. hard
-255. mean
-256. once
-257. support
-258. tell
-259. including
-260. music
-261. power
-262. seen
-263. states
-264. stop
-265. water
-266. based
-267. believe
-268. call
-269. head
-270. men
-271. national
-272. small
-273. took
-274. white
-275. came
-276. far
-277. job
-278. side
-279. though
-280. try
-281. went
-282. yes
-283. actually
-284. american
-285. later
-286. less
-287. line
-288. order
-289. party
-290. run
-291. says
-292. service
-293. country
-294. open
-295. season
-296. shit
-297. thank
-298. children
-299. everyone
-300. general
-301. trying
-302. united
-303. using
-304. area
-305. black
-306. following
-307. law
-308. makes
-309. together
-310. war
-311. whole
-312. car
-313. face
-314. five
-315. kind
-316. maybe
-317. per
-318. president
-319. story
-320. working
-321. course
-322. games
-323. health
-324. hope
-325. important
-326. least
-327. means
-328. news
-329. within
-330. able
-331. book
-332. early
-333. friends
-334. information
-335. local
-336. oh
-337. post
-338. thanks
-339. video
-340. young
-341. ago
-342. others
-343. social
-344. talk
-345. court
-346. fact
-347. given
-348. guys
-349. half
-350. hand
-351. level
-352. mind
-353. often
-354. single
-355. become
-356. body
-357. coming
-358. control
-359. death
-360. food
-361. guy
-362. hours
-363. office
-364. pay
-365. problem
-366. south
-367. true
-368. almost
-369. fuck
-370. history
-371. known
-372. large
-373. lost
-374. research
-375. room
-376. several
-377. started
-378. taking
-379. university
-380. win
-381. wrong
-382. along
-383. anyone
-384. else
-385. girl
-386. john
-387. matter
-388. pretty
-389. remember
-390. air
-391. bit
-392. friend
-393. hit
-394. needs
-395. nice
-396. playing
-397. probably
-398. saying
-399. understand
-400. yeah
-401. york
-402. class
-403. close
-404. comes
-405. idea
-406. international
-407. looks
-408. past
-409. possible
-410. wanted
-411. cause
-412. due
-413. happy
-414. human
-415. members
-416. months
-417. move
-418. question
-419. series
-420. wait
-421. woman
-422. ask
-423. community
-424. data
-425. late
-426. leave
-427. north
-428. saw
-429. special
-430. watch
-431. either
-432. fucking
-433. future
-434. light
-435. low
-436. million
-437. morning
-438. police
-439. short
-440. stay
-441. taken
-442. age
-443. buy
-444. deal
-445. rather
-446. reason
-447. red
-448. report
-449. soon
-450. third
-451. turn
-452. whether
-453. among
-454. check
-455. development
-456. form
-457. further
-458. heart
-459. minutes
-460. myself
-461. services
-462. yourself
-463. act
-464. although
-465. asked
-466. child
-467. fire
-468. fun
-469. living
-470. major
-471. media
-472. phone
-473. players
-474. art
-475. behind
-476. building
-477. easy
-478. gonna
-479. market
-480. near
-481. non
-482. plan
-483. political
-484. quite
-485. six
-486. talking
-487. west
-488. works
-489. according
-490. available
-491. education
-492. final
-493. former
-494. front
-495. kids
-496. list
-497. ready
-498. sometimes
-499. son
-500. street
-501. bring
-502. college
-503. current
-504. example
-505. experience
-506. heard
-507. london
-508. meet
-509. program
-510. type
-511. baby
-512. chance
-513. father
-514. march
-515. process
-516. song
-517. study
-518. word
-519. across
-520. action
-521. clear
-522. gave
-523. gets
-524. himself
-525. month
-526. outside
-527. self
-528. students
-529. words
-530. board
-531. cost
-532. cut
-533. dr
-534. field
-535. held
-536. instead
-537. main
-538. moment
-539. mother
-540. road
-541. seems
-542. thinking
-543. town
-544. wants
-545. de
-546. department
-547. energy
-548. fight
-549. fine
-550. force
-551. hear
-552. issue
-553. played
-554. points
-555. price
-556. re
-557. rest
-558. results
-559. running
-560. shows
-561. space
-562. summer
-563. term
-564. wife
-565. america
-566. beautiful
-567. date
-568. goes
-569. killed
-570. land
-571. miss
-572. project
-573. sex
-574. shot
-575. site
-576. strong
-577. account
-578. co
-579. especially
-580. eyes
-581. include
-582. june
-583. parents
-584. period
-585. position
-586. record
-587. similar
-588. total
-589. above
-590. club
-591. common
-592. died
-593. film
-594. happened
-595. knew
-596. lead
-597. likely
-598. military
-599. perfect
-600. personal
-601. security
-602. share
-603. st
-604. tv
-605. won
-606. april
-607. center
-608. county
-609. couple
-610. dead
-611. english
-612. happen
-613. hold
-614. industry
-615. inside
-616. issues
-617. online
-618. player
-619. private
-620. problems
-621. return
-622. rights
-623. sense
-624. star
-625. test
-626. view
-627. weeks
-628. break
-629. british
-630. companies
-631. event
-632. higher
-633. hour
-634. member
-635. middle
-636. needed
-637. present
-638. result
-639. sorry
-640. takes
-641. training
-642. wish
-643. answer
-644. boy
-645. design
-646. finally
-647. girls
-648. gold
-649. gone
-650. guess
-651. interest
-652. july
-653. king
-654. learn
-655. policy
-656. society
-657. added
-658. al
-659. alone
-660. average
-661. bank
-662. brought
-663. certain
-664. church
-665. east
-666. hands
-667. hot
-668. longer
-669. medical
-670. movie
-671. original
-672. park
-673. performance
-674. press
-675. received
-676. role
-677. sent
-678. themselves
-679. tried
-680. worked
-681. worth
-682. areas
-683. became
-684. bill
-685. books
-686. cool
-687. director
-688. exactly
-689. giving
-690. ground
-691. meeting
-692. provide
-693. questions
-694. relationship
-695. september
-696. sound
-697. source
-698. usually
-699. value
-700. evidence
-701. follow
-702. lives
-703. official
-704. ok
-705. production
-706. rate
-707. reading
-708. round
-709. save
-710. stand
-711. stuff
-712. tax
-713. whatever
-714. amount
-715. blue
-716. countries
-717. david
-718. drive
-719. eat
-720. fall
-721. fast
-722. federal
-723. feeling
-724. felt
-725. green
-726. league
-727. management
-728. match
-729. model
-730. picture
-731. size
-732. step
-733. trust
-734. central
-735. changes
-736. england
-737. forward
-738. groups
-739. hey
-740. key
-741. mom
-742. page
-743. paid
-744. range
-745. review
-746. science
-747. trade
-748. uk
-749. upon
-750. various
-751. attention
-752. brother
-753. cannot
-754. character
-755. chief
-756. cup
-757. football
-758. hate
-759. james
-760. led
-761. looked
-762. lower
-763. natural
-764. october
-765. property
-766. quality
-767. send
-768. style
-769. vote
-770. amazing
-771. august
-772. blood
-773. china
-774. complete
-775. dog
-776. economic
-777. hell
-778. involved
-779. itself
-780. language
-781. lord
-782. november
-783. oil
-784. related
-785. serious
-786. stage
-787. terms
-788. title
-789. add
-790. article
-791. attack
-792. born
-793. damn
-794. decided
-795. decision
-796. enjoy
-797. entire
-798. french
-799. january
-800. kill
-801. met
-802. perhaps
-803. poor
-804. release
-805. situation
-806. technology
-807. turned
-808. website
-809. written
-810. choice
-811. code
-812. considered
-813. continue
-814. council
-815. cover
-816. currently
-817. door
-818. election
-819. european
-820. events
-821. financial
-822. foreign
-823. hair
-824. increase
-825. legal
-826. lose
-827. michael
-828. pick
-829. race
-830. seem
-831. seven
-832. sign
-833. simple
-834. simply
-835. staff
-836. super
-837. union
-838. walk
-839. washington
-840. bed
-841. began
-842. built
-843. career
-844. changed
-845. crazy
-846. daily
-847. daughter
-848. december
-849. die
-850. difficult
-851. figure
-852. hospital
-853. knows
-854. loss
-855. modern
-856. ones
-857. paper
-858. parts
-859. popular
-860. published
-861. safe
-862. starting
-863. systems
-864. version
-865. voice
-866. whose
-867. writing
-868. army
-869. australia
-870. earth
-871. forget
-872. goal
-873. huge
-874. internet
-875. listen
-876. okay
-877. practice
-878. rules
-879. sea
-880. sir
-881. success
-882. towards
-883. waiting
-884. ways
-885. access
-886. base
-887. below
-888. created
-889. deep
-890. followed
-891. la
-892. lol
-893. mark
-894. missing
-895. offer
-896. pass
-897. professional
-898. released
-899. risk
-900. schools
-901. sleep
-902. table
-903. ten
-904. truth
-905. ball
-906. box
-907. build
-908. card
-909. cases
-910. dark
-911. district
-912. europe
-913. george
-914. india
-915. mine
-916. minister
-917. note
-918. percent
-919. piece
-920. products
-921. recent
-922. seeing
-923. straight
-924. visit
-925. wall
-926. wanna
-927. wrote
-928. allowed
-929. boys
-930. culture
-931. etc
-932. fans
-933. february
-934. gives
-935. growth
-936. included
-937. married
-938. officer
-939. pain
-940. paul
-941. places
-942. respect
-943. response
-944. river
-945. rock
-946. shall
-947. speak
-948. specific
-949. standard
-950. tonight
-951. write
-952. album
-953. century
-954. charge
-955. cold
-956. create
-957. effect
-958. eight
-959. except
-960. eye
-961. funny
-962. ii
-963. limited
-964. moving
-965. network
-966. peace
-967. provided
-968. recently
-969. required
-970. sales
-971. spent
-972. store
-973. student
-974. tomorrow
-975. track
-976. via
-977. watching
-978. weight
-979. addition
-980. ahead
-981. allow
-982. anti
-983. association
-984. beat
-985. brown
-986. capital
-987. chinese
-988. committee
-989. conference
-990. difference
-991. double
-992. expect
-993. gas
-994. island
-995. moved
-996. normal
-997. plans
-998. population
-999. potential
-1000. pressure
-1001. radio
-1002. russian
-1003. station
-1004. text
-1005. treatment
-1006. western
-1007. ass
-1008. beginning
-1009. california
-1010. campaign
-1011. certainly
-1012. completely
-1013. content
-1014. credit
-1015. cross
-1016. described
-1017. despite
-1018. female
-1019. focus
-1020. hi
-1021. husband
-1022. ice
-1023. individual
-1024. interesting
-1025. join
-1026. kept
-1027. leading
-1028. loved
-1029. message
-1030. miles
-1031. nearly
-1032. particular
-1033. previous
-1034. quickly
-1035. region
-1036. reported
-1037. section
-1038. sort
-1039. speed
-1040. travel
-1041. consider
-1042. contact
-1043. drop
-1044. fair
-1045. feet
-1046. jesus
-1047. kid
-1048. link
-1049. positive
-1050. sale
-1051. throughout
-1052. tour
-1053. welcome
-1054. absolutely
-1055. additional
-1056. beyond
-1057. conditions
-1058. earlier
-1059. extra
-1060. forces
-1061. immediately
-1062. jobs
-1063. leaving
-1064. minute
-1065. nature
-1066. numbers
-1067. quick
-1068. sell
-1069. significant
-1070. studies
-1071. unless
-1072. winning
-1073. agree
-1074. canada
-1075. clean
-1076. computer
-1077. construction
-1078. episode
-1079. favorite
-1080. income
-1081. justice
-1082. levels
-1083. manager
-1084. movement
-1085. photo
-1086. posted
-1087. safety
-1088. san
-1089. scene
-1090. sold
-1091. sounds
-1092. spend
-1093. statement
-1094. sun
-1095. teams
-1096. ability
-1097. announced
-1098. asking
-1099. calling
-1100. coach
-1101. collection
-1102. continued
-1103. costs
-1104. definitely
-1105. designed
-1106. expected
-1107. friday
-1108. gun
-1109. happens
-1110. heavy
-1111. includes
-1112. knowledge
-1113. particularly
-1114. search
-1115. subject
-1116. train
-1117. wide
-1118. wow
-1119. author
-1120. centre
-1121. claim
-1122. dad
-1123. developed
-1124. fear
-1125. fit
-1126. generally
-1127. german
-1128. global
-1129. goals
-1130. gotta
-1131. hotel
-1132. interested
-1133. judge
-1134. lady
-1135. leader
-1136. letter
-1137. lines
-1138. material
-1139. named
-1140. nobody
-1141. opportunity
-1142. plus
-1143. pre
-1144. product
-1145. regular
-1146. secretary
-1147. sister
-1148. stories
-1149. unit
-1150. workers
-1151. annual
-1152. anymore
-1153. bar
-1154. battle
-1155. brain
-1156. contract
-1157. degree
-1158. families
-1159. features
-1160. finished
-1161. floor
-1162. france
-1163. growing
-1164. hurt
-1165. image
-1166. insurance
-1167. majority
-1168. meant
-1169. opening
-1170. opinion
-1171. physical
-1172. pro
-1173. reach
-1174. rule
-1175. seriously
-1176. sports
-1177. stupid
-1178. successful
-1179. active
-1180. administration
-1181. approach
-1182. australian
-1183. biggest
-1184. cancer
-1185. civil
-1186. dance
-1187. defense
-1188. direction
-1189. independent
-1190. master
-1191. none
-1192. reasons
-1193. russia
-1194. ship
-1195. stock
-1196. trump
-1197. weekend
-1198. wonder
-1199. worst
-1200. africa
-1201. awesome
-1202. band
-1203. beach
-1204. cash
-1205. clearly
-1206. commercial
-1207. compared
-1208. effort
-1209. ended
-1210. fan
-1211. fighting
-1212. imagine
-1213. impact
-1214. lack
-1215. latest
-1216. learning
-1217. multiple
-1218. older
-1219. operation
-1220. organization
-1221. passed
-1222. pictures
-1223. protect
-1224. secret
-1225. senior
-1226. spring
-1227. sunday
-1228. telling
-1229. wear
-1230. activities
-1231. address
-1232. analysis
-1233. anyway
-1234. bought
-1235. calls
-1236. choose
-1237. christmas
-1238. color
-1239. commission
-1240. competition
-1241. details
-1242. direct
-1243. dream
-1244. easily
-1245. finish
-1246. grand
-1247. increased
-1248. indian
-1249. literally
-1250. luck
-1251. marriage
-1252. names
-1253. necessary
-1254. patients
-1255. resources
-1256. rich
-1257. skin
-1258. speaking
-1259. supposed
-1260. sweet
-1261. thus
-1262. touch
-1263. yesterday
-1264. caught
-1265. closed
-1266. congress
-1267. damage
-1268. directly
-1269. disease
-1270. doctor
-1271. doubt
-1272. drink
-1273. driving
-1274. established
-1275. facebook
-1276. feels
-1277. fish
-1278. gay
-1279. germany
-1280. glad
-1281. greater
-1282. grow
-1283. largest
-1284. machine
-1285. notice
-1286. overall
-1287. planning
-1288. professor
-1289. programs
-1290. records
-1291. reports
-1292. shown
-1293. sit
-1294. trip
-1295. associated
-1296. basic
-1297. captain
-1298. carry
-1299. cars
-1300. crime
-1301. effective
-1302. effects
-1303. explain
-1304. fully
-1305. highly
-1306. holding
-1307. japan
-1308. laws
-1309. male
-1310. mrs
-1311. parties
-1312. plant
-1313. reality
-1314. smith
-1315. spot
-1316. texas
-1317. winter
-1318. worse
-1319. advice
-1320. agreement
-1321. award
-1322. block
-1323. broken
-1324. caused
-1325. challenge
-1326. characters
-1327. christian
-1328. comment
-1329. equipment
-1330. eventually
-1331. helped
-1332. holy
-1333. killing
-1334. lived
-1335. lots
-1336. nation
-1337. otherwise
-1338. peter
-1339. prices
-1340. primary
-1341. purpose
-1342. rates
-1343. responsible
-1344. shop
-1345. showing
-1346. sick
-1347. teacher
-1348. theory
-1349. uses
-1350. william
-1351. agency
-1352. avoid
-1353. camera
-1354. catch
-1355. cell
-1356. coast
-1357. comments
-1358. drug
-1359. economy
-1360. environment
-1361. executive
-1362. foot
-1363. hall
-1364. mass
-1365. meaning
-1366. mission
-1367. nine
-1368. officers
-1369. operations
-1370. politics
-1371. pop
-1372. produced
-1373. ran
-1374. saturday
-1375. status
-1376. therefore
-1377. trial
-1378. truly
-1379. weather
-1380. activity
-1381. app
-1382. application
-1383. claims
-1384. coffee
-1385. complex
-1386. condition
-1387. division
-1388. evening
-1389. flight
-1390. freedom
-1391. google
-1392. heat
-1393. highest
-1394. interview
-1395. library
-1396. located
-1397. location
-1398. murder
-1399. obama
-1400. offered
-1401. putting
-1402. queen
-1403. seconds
-1404. showed
-1405. sitting
-1406. standing
-1407. stars
-1408. walking
-1409. accept
-1410. actual
-1411. appear
-1412. attempt
-1413. broke
-1414. channel
-1415. distance
-1416. eating
-1417. exchange
-1418. fat
-1419. fell
-1420. finding
-1421. glass
-1422. learned
-1423. losing
-1424. mobile
-1425. northern
-1426. opened
-1427. placed
-1428. powerful
-1429. prior
-1430. protection
-1431. reached
-1432. receive
-1433. religious
-1434. ride
-1435. robert
-1436. royal
-1437. screen
-1438. serve
-1439. signed
-1440. slow
-1441. species
-1442. speech
-1443. traffic
-1444. tree
-1445. types
-1446. vs
-1447. wearing
-1448. whom
-1449. wonderful
-1450. agreed
-1451. airport
-1452. animals
-1453. appears
-1454. begin
-1455. benefits
-1456. bottom
-1457. cities
-1458. demand
-1459. engine
-1460. everybody
-1461. famous
-1462. ideas
-1463. investment
-1464. keeping
-1465. lie
-1466. notes
-1467. partner
-1468. plays
-1469. raised
-1470. runs
-1471. sad
-1472. solution
-1473. songs
-1474. sources
-1475. southern
-1476. square
-1477. stopped
-1478. structure
-1479. thomas
-1480. traditional
-1481. twice
-1482. wind
-1483. worry
-1484. americans
-1485. appeared
-1486. becomes
-1487. brand
-1488. bus
-1489. cent
-1490. chicago
-1491. count
-1492. covered
-1493. critical
-1494. digital
-1495. forced
-1496. fourth
-1497. fresh
-1498. lake
-1499. mental
-1500. mentioned
-1501. missed
-1502. mostly
-1503. mouth
-1504. owner
-1505. photos
-1506. previously
-1507. realize
-1508. remain
-1509. scale
-1510. score
-1511. separate
-1512. smart
-1513. starts
-1514. surface
-1515. throw
-1516. tom
-1517. totally
-1518. twitter
-1519. views
-1520. wedding
-1521. acting
-1522. actions
-1523. african
-1524. arms
-1525. benefit
-1526. budget
-1527. click
-1528. estate
-1529. failed
-1530. faith
-1531. fashion
-1532. feature
-1533. fund
-1534. generation
-1535. hearing
-1536. hill
-1537. jack
-1538. larger
-1539. louis
-1540. metal
-1541. mid
-1542. paris
-1543. profile
-1544. pull
-1545. push
-1546. returned
-1547. rose
-1548. seat
-1549. seemed
-1550. sexual
-1551. target
-1552. understanding
-1553. village
-1554. agent
-1555. animal
-1556. apply
-1557. authority
-1558. basis
-1559. becoming
-1560. chris
-1561. draw
-1562. dude
-1563. employees
-1564. enter
-1565. ex
-1566. follows
-1567. foundation
-1568. gain
-1569. http
-1570. individuals
-1571. japanese
-1572. leaders
-1573. memory
-1574. prime
-1575. projects
-1576. ring
-1577. rise
-1578. selling
-1579. served
-1580. silver
-1581. soul
-1582. spread
-1583. supply
-1584. waste
-1585. weird
-1586. adult
-1587. apparently
-1588. artist
-1589. chairman
-1590. edition
-1591. engineering
-1592. grade
-1593. happening
-1594. healthy
-1595. institute
-1596. method
-1597. mike
-1598. monday
-1599. nations
-1600. obviously
-1601. option
-1602. prison
-1603. provides
-1604. remains
-1605. senate
-1606. smaller
-1607. somebody
-1608. stone
-1609. strength
-1610. users
-1611. wild
-1612. window
-1613. winner
-1614. arrived
-1615. bag
-1616. bet
-1617. camp
-1618. cast
-1619. christ
-1620. continues
-1621. correct
-1622. dangerous
-1623. ed
-1624. extremely
-1625. firm
-1626. greatest
-1627. handle
-1628. improve
-1629. indeed
-1630. leaves
-1631. movies
-1632. negative
-1633. prevent
-1634. removed
-1635. richard
-1636. spirit
-1637. television
-1638. till
-1639. trouble
-1640. usa
-1641. videos
-1642. advantage
-1643. apart
-1644. aware
-1645. cat
-1646. customers
-1647. decide
-1648. dinner
-1649. dollars
-1650. eastern
-1651. fifth
-1652. function
-1653. gift
-1654. helping
-1655. herself
-1656. impossible
-1657. influence
-1658. items
-1659. joe
-1660. los
-1661. marketing
-1662. mary
-1663. materials
-1664. nor
-1665. produce
-1666. progress
-1667. proud
-1668. require
-1669. shooting
-1670. shut
-1671. standards
-1672. tells
-1673. thinks
-1674. van
-1675. wood
-1676. background
-1677. birth
-1678. bridge
-1679. carried
-1680. charles
-1681. classes
-1682. completed
-1683. concept
-1684. copy
-1685. dear
-1686. dogs
-1687. drugs
-1688. efforts
-1689. garden
-1690. host
-1691. housing
-1692. inc
-1693. israel
-1694. journal
-1695. labor
-1696. leadership
-1697. length
-1698. lucky
-1699. neither
-1700. onto
-1701. patient
-1702. possibly
-1703. prove
-1704. rare
-1705. setting
-1706. skills
-1707. software
-1708. thousands
-1709. tough
-1710. units
-1711. ad
-1712. alive
-1713. apple
-1714. balance
-1715. birthday
-1716. bitch
-1717. boss
-1718. cards
-1719. changing
-1720. connection
-1721. dress
-1722. easier
-1723. fellow
-1724. florida
-1725. horse
-1726. knowing
-1727. liked
-1728. magic
-1729. managed
-1730. map
-1731. net
-1732. owned
-1733. request
-1734. stick
-1735. turns
-1736. vehicle
-1737. volume
-1738. wake
-1739. aid
-1740. beauty
-1741. believed
-1742. billion
-1743. busy
-1744. buying
-1745. cells
-1746. concerned
-1747. conversation
-1748. corner
-1749. criminal
-1750. cultural
-1751. develop
-1752. driver
-1753. ends
-1754. existing
-1755. farm
-1756. file
-1757. fix
-1758. fly
-1759. frank
-1760. guide
-1761. images
-1762. investigation
-1763. mexico
-1764. operating
-1765. paying
-1766. presented
-1767. raise
-1768. responsibility
-1769. roll
-1770. slightly
-1771. suggest
-1772. surprise
-1773. technical
-1774. thoughts
-1775. treat
-1776. unique
-1777. variety
-1778. violence
-1779. weapons
-1780. yours
-1781. youth
-1782. appreciate
-1783. bigger
-1784. breaking
-1785. discovered
-1786. dont
-1787. dry
-1788. edge
-1789. evil
-1790. excited
-1791. forever
-1792. funds
-1793. helps
-1794. henry
-1795. injury
-1796. iron
-1797. lovely
-1798. mad
-1799. magazine
-1800. martin
-1801. models
-1802. offers
-1803. ordered
-1804. parliament
-1805. prepared
-1806. reference
-1807. religion
-1808. sites
-1809. somewhere
-1810. stated
-1811. strategy
-1812. teachers
-1813. web
-1814. wine
-1815. accounts
-1816. angeles
-1817. arm
-1818. audience
-1819. bay
-1820. blog
-1821. closer
-1822. core
-1823. democratic
-1824. description
-1825. dropped
-1826. excellent
-1827. exist
-1828. figures
-1829. forms
-1830. guard
-1831. honest
-1832. issued
-1833. joined
-1834. jones
-1835. lee
-1836. lies
-1837. likes
-1838. medicine
-1839. mention
-1840. mountain
-1841. nuclear
-1842. orders
-1843. port
-1844. presence
-1845. reaction
-1846. reduce
-1847. shoot
-1848. sides
-1849. solid
-1850. spanish
-1851. sport
-1852. steps
-1853. stress
-1854. taste
-1855. tea
-1856. victory
-1857. afternoon
-1858. assistant
-1859. britain
-1860. citizens
-1861. classic
-1862. clothes
-1863. decisions
-1864. electric
-1865. emergency
-1866. entered
-1867. entirely
-1868. facts
-1869. failure
-1870. festival
-1871. flat
-1872. fuel
-1873. harry
-1874. hello
-1875. houses
-1876. ill
-1877. initial
-1878. introduced
-1879. johnson
-1880. kick
-1881. links
-1882. mail
-1883. massive
-1884. matters
-1885. pair
-1886. picked
-1887. pieces
-1888. plane
-1889. plenty
-1890. prince
-1891. proper
-1892. providing
-1893. quarter
-1894. regional
-1895. scott
-1896. session
-1897. shape
-1898. sky
-1899. teaching
-1900. toward
-1901. transfer
-1902. upper
-1903. useful
-1904. valley
-1905. watched
-1906. willing
-1907. windows
-1908. zone
-1909. accident
-1910. advanced
-1911. alternative
-1912. anywhere
-1913. articles
-1914. awards
-1915. bear
-1916. boat
-1917. bringing
-1918. capacity
-1919. cheap
-1920. climate
-1921. communities
-1922. discussion
-1923. drinking
-1924. duty
-1925. fantastic
-1926. feelings
-1927. flying
-1928. governor
-1929. hundred
-1930. industrial
-1931. joint
-1932. mix
-1933. museum
-1934. options
-1935. path
-1936. plants
-1937. policies
-1938. promise
-1939. proposed
-1940. purchase
-1941. rain
-1942. remove
-1943. signs
-1944. spending
-1945. steel
-1946. steve
-1947. supporting
-1948. terrible
-1949. tired
-1950. treated
-1951. turning
-1952. vice
-1953. warm
-1954. afraid
-1955. arts
-1956. beer
-1957. border
-1958. canadian
-1959. command
-1960. crew
-1961. crowd
-1962. dating
-1963. dick
-1964. elements
-1965. enemy
-1966. ensure
-1967. environmental
-1968. filled
-1969. fixed
-1970. forest
-1971. intelligence
-1972. intended
-1973. labour
-1974. limit
-1975. moon
-1976. ocean
-1977. powers
-1978. profit
-1979. proof
-1980. republican
-1981. soldiers
-1982. suit
-1983. wins
-1984. appearance
-1985. asian
-1986. attorney
-1987. banks
-1988. behavior
-1989. ben
-1990. bodies
-1991. brothers
-1992. buildings
-1993. chair
-1994. creating
-1995. debt
-1996. domestic
-1997. expensive
-1998. grew
-1999. historical
-2000. homes
-2001. honestly
-2002. honor
-2003. im
-2004. jump
-2005. launch
-2006. listed
-2007. minimum
-2008. native
-2009. noted
-2010. originally
-2011. planned
-2012. pm
-2013. ray
-2014. sets
-2015. suddenly
-2016. supreme
-2017. survey
-2018. tech
-2019. trees
-2020. update
-2021. user
-2022. writer
-2023. yellow
-2024. younger
-2025. ancient
-2026. attacks
-2027. charges
-2028. combined
-2029. communication
-2030. connected
-2031. contains
-2032. download
-2033. email
-2034. ending
-2035. exercise
-2036. express
-2037. flow
-2038. formed
-2039. girlfriend
-2040. hero
-2041. illegal
-2042. increasing
-2043. joke
-2044. loan
-2045. methods
-2046. officials
-2047. performed
-2048. planet
-2049. relationships
-2050. restaurant
-2051. scotland
-2052. selected
-2053. shared
-2054. shopping
-2055. soft
-2056. stuck
-2057. sugar
-2058. suggested
-2059. supported
-2060. surprised
-2061. taught
-2062. transport
-2063. accepted
-2064. adding
-2065. affairs
-2066. allows
-2067. appeal
-2068. applied
-2069. appropriate
-2070. artists
-2071. boston
-2072. ca
-2073. confirmed
-2074. device
-2075. drama
-2076. entry
-2077. era
-2078. factor
-2079. feed
-2080. golden
-2081. grant
-2082. grown
-2083. heads
-2084. hoping
-2085. keeps
-2086. lawyer
-2087. legs
-2088. lying
-2089. measures
-2090. mistake
-2091. ms
-2092. muslim
-2093. organizations
-2094. platform
-2095. pool
-2096. pulled
-2097. regarding
-2098. relations
-2099. requires
-2100. route
-2101. saved
-2102. schedule
-2103. scientific
-2104. shoes
-2105. smoke
-2106. squad
-2107. teach
-2108. testing
-2109. tests
-2110. values
-2111. walked
-2112. williams
-2113. ya
-2114. abuse
-2115. angry
-2116. businesses
-2117. candidate
-2118. comfortable
-2119. concern
-2120. developing
-2121. discuss
-2122. elections
-2123. emotional
-2124. et
-2125. everywhere
-2126. facilities
-2127. falling
-2128. fox
-2129. guns
-2130. hole
-2131. holiday
-2132. interests
-2133. internal
-2134. ireland
-2135. italian
-2136. italy
-2137. jersey
-2138. laugh
-2139. leg
-2140. letters
-2141. liberal
-2142. listening
-2143. ll
-2144. loves
-2145. lunch
-2146. max
-2147. milk
-2148. pack
-2149. payment
-2150. perform
-2151. recorded
-2152. relatively
-2153. sector
-2154. sharing
-2155. snow
-2156. storm
-2157. streets
-2158. strike
-2159. studio
-2160. sub
-2161. weak
-2162. youtube
-2163. actor
-2164. advance
-2165. apartment
-2166. asia
-2167. chain
-2168. chapter
-2169. committed
-2170. confidence
-2171. cook
-2172. cute
-2173. equal
-2174. fake
-2175. finance
-2176. focused
-2177. hits
-2178. identity
-2179. journey
-2180. kitchen
-2181. korea
-2182. leads
-2183. maintain
-2184. measure
-2185. mm
-2186. numerous
-2187. owners
-2188. posts
-2189. properties
-2190. quiet
-2191. revealed
-2192. specifically
-2193. split
-2194. task
-2195. taxes
-2196. taylor
-2197. twenty
-2198. urban
-2199. acts
-2200. affected
-2201. aircraft
-2202. applications
-2203. approved
-2204. approximately
-2205. argument
-2206. arrested
-2207. claimed
-2208. conflict
-2209. considering
-2210. corporate
-2211. debate
-2212. determined
-2213. distribution
-2214. documents
-2215. escape
-2216. extended
-2217. factors
-2218. faster
-2219. fault
-2220. fill
-2221. films
-2222. flowers
-2223. friendly
-2224. ladies
-2225. lay
-2226. lights
-2227. millions
-2228. mixed
-2229. phase
-2230. properly
-2231. pure
-2232. reduced
-2233. requirements
-2234. residents
-2235. revenue
-2236. sam
-2237. sat
-2238. secure
-2239. smile
-2240. strange
-2241. talent
-2242. temperature
-2243. thousand
-2244. tony
-2245. troops
-2246. truck
-2247. votes
-2248. ah
-2249. authorities
-2250. basically
-2251. besides
-2252. bird
-2253. blame
-2254. bob
-2255. bowl
-2256. causes
-2257. chicken
-2258. collected
-2259. context
-2260. coverage
-2261. determine
-2262. display
-2263. dying
-2264. elected
-2265. examples
-2266. experienced
-2267. falls
-2268. false
-2269. fired
-2270. forgot
-2271. funding
-2272. identified
-2273. iii
-2274. incredible
-2275. inspired
-2276. launched
-2277. ma
-2278. meat
-2279. ministry
-2280. mode
-2281. neck
-2282. noticed
-2283. novel
-2284. obvious
-2285. passing
-2286. positions
-2287. remaining
-2288. scored
-2289. shirt
-2290. shots
-2291. slowly
-2292. stadium
-2293. stores
-2294. surgery
-2295. trading
-2296. tuesday
-2297. vision
-2298. whenever
-2299. worried
-2300. zero
-2301. alex
-2302. allowing
-2303. begins
-2304. champion
-2305. charged
-2306. cream
-2307. crisis
-2308. daniel
-2309. delivered
-2310. editor
-2311. estimated
-2312. eu
-2313. giant
-2314. iran
-2315. jail
-2316. jim
-2317. kingdom
-2318. literature
-2319. mayor
-2320. minor
-2321. moments
-2322. opposite
-2323. orange
-2324. ourselves
-2325. pages
-2326. remained
-2327. selection
-2328. serving
-2329. signal
-2330. stream
-2331. struggle
-2332. suicide
-2333. talked
-2334. theme
-2335. thursday
-2336. tiny
-2337. typically
-2338. un
-2339. unfortunately
-2340. usual
-2341. vehicles
-2342. virginia
-2343. voted
-2344. voting
-2345. walls
-2346. wave
-2347. alcohol
-2348. assembly
-2349. breakfast
-2350. bright
-2351. brings
-2352. capable
-2353. carrying
-2354. chosen
-2355. combination
-2356. conservative
-2357. customer
-2358. cutting
-2359. desire
-2360. destroyed
-2361. draft
-2362. drunk
-2363. essential
-2364. fail
-2365. familiar
-2366. finds
-2367. granted
-2368. guilty
-2369. humans
-2370. hundreds
-2371. id
-2372. improved
-2373. jewish
-2374. largely
-2375. laughing
-2376. markets
-2377. medium
-2378. ohio
-2379. opportunities
-2380. papers
-2381. perfectly
-2382. recommend
-2383. referred
-2384. relevant
-2385. seek
-2386. sending
-2387. solo
-2388. spoke
-2389. stands
-2390. talks
-2391. ticket
-2392. unable
-2393. upset
-2394. wing
-2395. answers
-2396. birds
-2397. bomb
-2398. creative
-2399. cycle
-2400. dealing
-2401. directed
-2402. don
-2403. educational
-2404. entertainment
-2405. extreme
-2406. facility
-2407. fields
-2408. goods
-2409. hang
-2410. holds
-2411. info
-2412. mainly
-2413. maximum
-2414. newspaper
-2415. offering
-2416. painting
-2417. republic
-2418. reserve
-2419. returns
-2420. row
-2421. salt
-2422. scared
-2423. scottish
-2424. shares
-2425. statistics
-2426. switch
-2427. territory
-2428. threat
-2429. tickets
-2430. wales
-2431. adults
-2432. affect
-2433. appointed
-2434. armed
-2435. aside
-2436. assistance
-2437. bell
-2438. blow
-2439. bond
-2440. boyfriend
-2441. careful
-2442. circumstances
-2443. communications
-2444. concerns
-2445. controlled
-2446. corporation
-2447. cry
-2448. danger
-2449. deals
-2450. delivery
-2451. deserve
-2452. devices
-2453. dollar
-2454. dreams
-2455. empty
-2456. enjoyed
-2457. explained
-2458. faces
-2459. folks
-2460. fucked
-2461. gender
-2462. instance
-2463. kim
-2464. kinda
-2465. matches
-2466. mile
-2467. motion
-2468. moves
-2469. nick
-2470. pacific
-2471. prize
-2472. realized
-2473. reasonable
-2474. receiving
-2475. register
-2476. resolution
-2477. rural
-2478. ryan
-2479. saving
-2480. sees
-2481. singing
-2482. spain
-2483. tools
-2484. typical
-2485. universe
-2486. warning
-2487. wars
-2488. wednesday
-2489. admit
-2490. attitude
-2491. branch
-2492. brazil
-2493. conducted
-2494. decades
-2495. dedicated
-2496. definition
-2497. drawing
-2498. favor
-2499. flag
-2500. frame
+1. the — mạo từ xác định (cái/đó; đã biết/cụ thể)
+2. to — đến; để; (to + V) dùng trước động từ nguyên mẫu
+3. and — và
+4. of — của; thuộc về
+5. a — một; mạo từ không xác định
+6. in — trong; ở; vào
+7. i — tôi
+8. is — là/ở (he/she/it is)
+9. for — cho; để; vì
+10. that — cái đó; điều đó; (liên từ) rằng
+11. you — bạn/các bạn (tùy ngữ cảnh)
+12. it — nó; điều đó
+13. on — trên; vào (ngày/thứ)
+14. with — với; cùng với
+15. this — cái này; điều này
+16. was — đã là/đã ở (I/he/she/it)
+17. be — là/ở; trở thành
+18. as — càng, theo, ngay
+19. are — là/ở (you/we/they are)
+20. have — có; trợ động từ (have/has/had)
+21. at — tại; lúc (giờ cụ thể)
+22. he — anh ấy/ông ấy
+23. not — không
+24. by — bởi; bằng; gần/cạnh
+25. but — nhưng
+26. from — từ
+27. my — của tôi
+28. or — hoặc
+29. we — chúng tôi/chúng ta
+30. an — một; mạo từ không xác định (trước âm nguyên âm)
+31. your — của bạn
+32. all — tất cả
+33. so — vì vậy; nên
+34. his — của anh ấy/ông ấy
+35. they — họ
+36. me — tôi (tân ngữ)
+37. if — nếu
+38. one — một
+39. can — có thể
+40. will — sẽ
+41. just — chỉ; vừa mới
+42. like — thích; như (giống như)
+43. about — về; khoảng
+44. up — lên
+45. out — ra (ngoài)
+46. what — cái gì/điều gì
+47. has — có; trợ động từ (ngôi 3 số ít)
+48. when — khi nào
+49. more — nhiều hơn
+50. do — làm; trợ động từ (do/does/did)
+51. no — không; không có
+52. were — đã là/đã ở (you/we/they)
+53. who — ai
+54. had — đã có (quá khứ của have)
+55. their — của họ
+56. there — ở đó; (there is/are) có
+57. her — cô ấy (tân ngữ); của cô ấy
+58. which — cái nào; cái mà
+59. time — thời gian; lần
+60. get — nhận; lấy; đến; trở nên
+61. been — đã (phân từ 2 của be)
+62. would — sẽ (lịch sự/giả định)
+63. she — cô ấy/chị ấy
+64. new — mới
+65. people — người; mọi người
+66. how — như thế nào; bằng cách nào
+67. some — một vài; một số
+68. also — cũng
+69. them — họ (tân ngữ)
+70. now — bây giờ
+71. other — khác
+72. its — của nó
+73. our — của chúng tôi/chúng ta
+74. than — hơn (trong so sánh)
+75. good — tốt; giỏi
+76. only — chỉ; duy nhất
+77. after — sau
+78. first — đầu tiên
+79. him — anh ấy/ông ấy (tân ngữ)
+80. into — vào trong
+81. know — biết
+82. see — thấy; gặp
+83. two — hai
+84. make — làm; tạo ra
+85. over — qua; ở trên; hơn (quá)
+86. think — nghĩ
+87. any — bất kỳ; (trong hỏi/phủ định) chút nào
+88. then — sau đó; lúc đó
+89. could — có thể (quá khứ/lịch sự)
+90. back — trở lại; phía sau
+91. these — những cái này
+92. us — chúng tôi/chúng ta (tân ngữ)
+93. want — muốn
+94. because — bởi vì
+95. go — đi
+96. well — tốt; ổn; khỏe
+97. said — bảo, vừa, họ
+98. way — lối, tránh, một cách
+99. most — hầu hết; nhất
+100. much — nhiều (không đếm được); rất
+101. very — rất
+102. where — ở đâu
+103. even — thậm chí, kể cả, dù
+104. should — nên
+105. may — có thể (trang trọng)
+106. here — ở đây
+107. need — giúp đỡ, thêm, cần
+108. really — thực sự, thật sự, lắm
+109. did — đã (quá khứ của do); đã làm
+110. right — đúng; bên phải
+111. work — làm việc; công việc
+112. year — năm
+113. years — nhiều năm
+114. being — đang là/đang ở
+115. day — ngày
+116. too — cũng; quá
+117. going — đâu vậy, định, chuyện
+118. before — trước
+119. off — tắt; rời khỏi
+120. why — tại sao
+121. made — phạm, tạo, khiến
+122. still — vẫn (còn)
+123. take — lấy; mang; đi; mất (thời gian)
+124. got — nhận, lấy, cậu
+125. many — nhiều (đếm được)
+126. never — không bao giờ
+127. those — những cái đó
+128. life — cuộc sống, cuộc đời, mạng
+129. say — nói
+130. world — thế giới, đời, thay đổi
+131. down — xuống
+132. great — tuyệt, vĩ đại, tuyệt vời
+133. through — qua; xuyên qua
+134. last — cuối cùng, năm ngoái, cuối
+135. while — một chút, trong, lâu
+136. best — hết sức, giỏi, thân
+137. such — như thế, như vậy, sao
+138. love — yêu, tình yêu, yêu thương
+139. man — đàn ông, con người, gã
+140. home — nhà, về, trở
+141. long — bao lâu, dài, lâu
+142. look — nhìn; trông; tìm
+143. something — vài, hỏi, xảy
+144. use — dùng; sử dụng
+145. same — giống; như nhau
+146. used — quen, thường, sử dụng
+147. both — cả, hai, đều
+148. every — mỗi; mọi
+149. am — là/ở (I am)
+150. come — đến
+151. part — phần, đoạn, tham gia
+152. state — bang, trạng thái, tiểu bang
+153. three — ba
+154. around — quanh, xung quanh, quay
+155. between — giữa
+156. always — luôn, luôn luôn, lúc nào
+157. better — tốt đẹp, tốt, khá
+158. find — tìm; tìm thấy
+159. help — giúp; sự giúp đỡ
+160. high — cao, phê, trung học
+161. little — ít, một chút, nhỏ
+162. old — già, cũ, ông già
+163. since — kể, hồi, từ
+164. another — một cái/người khác; khác nữa
+165. does — trợ động từ do (ngôi 3 số ít); làm
+166. own — riêng, sở hữu, một mình
+167. things — đồ, những, vài
+168. under — dưới
+169. during — trong (khoảng thời gian)
+170. game — trò chơi, trận đấu, cuộc chơi
+171. thing — thứ, điều, duy nhất
+172. give — cho; đưa
+173. house — ngôi, căn, nhà
+174. place — nơi, chỗ, đây
+175. school — trường, trường học, học
+176. again — lại; lần nữa
+177. next — tiếp theo; kế tiếp
+178. each — mỗi
+179. mr — ông (Mr.)
+180. without — không có
+181. against — chống lại; dựa vào
+182. end — kết thúc, chấm dứt, kết
+183. found — phát hiện, xác, tìm
+184. must — phải; nhất định
+185. show — biểu diễn, chương trình, xuất hiện
+186. big — lớn, bự, to
+187. feel — cảm thấy
+188. sure — chắc, chắc chắn, đảm bảo
+189. team — đội, nhóm, bóng
+190. ever — từng; bao giờ
+191. family — gia đình, cùng, sống
+192. keep — giữ, tiếp tục, tiếp
+193. might — có lẽ; có thể
+194. please — làm ơn; làm hài lòng
+195. put — đặt, súng, bỏ
+196. money — tiền, tiền bạc, kiếm
+197. free — tự do, miễn phí, rảnh
+198. second — giây, lát, đợi
+199. someone — ai đó
+200. away — đi xa; ra xa
+201. left — bên trái
+202. number — số, con số, một số
+203. city — thành phố, thành, cứu
+204. days — nhiều ngày
+205. lot — nhiều, rất, khá
+206. name — tên, đặt, nhỉ
+207. night — đêm
+208. play — chơi, kịch, vở
+209. until — cho đến khi
+210. company — công ty, khách, bảo hiểm
+211. doing — đây vậy, quái, làm việc
+212. few — một vài, vài, ít
+213. let — thả, để, cứ
+214. real — thực, thật sự, thực sự
+215. called — gọi, gọi là, điện
+216. different — khác, khác biệt, loại
+217. having — vui vẻ, quan hệ, tiệc
+218. set — gài, thiết lập, sắp xếp
+219. thought — tưởng, cứ, tớ
+220. done — xong, làm, lắm
+221. however — tuy nhiên
+222. getting — ngày càng, sắp, bắt đầu
+223. god — thần, chúa, thượng đế
+224. government — chính phủ, chính quyền, chống
+225. group — nhóm, tổ chức, thành viên
+226. looking — tìm kiếm, kiếm, nhìn
+227. public — công cộng, công chúng, công khai
+228. top — đỉnh, hàng đầu, tầng
+229. women — phụ nữ, đàn bà, nữ
+230. business — làm ăn, kinh doanh, công việc
+231. care — quan tâm, chăm sóc, bảo trọng
+232. start — bắt đầu, bắt đầu từ, khởi đầu
+233. system — hệ thống, hệ, miễn dịch
+234. times — gấp, lần, trăm
+235. week — tuần
+236. already — đã (rồi)
+237. anything — bất cứ, chẳng, hết
+238. case — trường hợp, án, đề phòng
+239. nothing — chẳng là, chẳng, chả
+240. person — người
+241. today — hôm nay
+242. change — thay đổi, đổi, thay
+243. enough — đủ, lâu, lớn
+244. everything — mọi, kể, ổn
+245. full — đầy, đầy đủ, trăng tròn
+246. live — sống
+247. making — phạm, tạo, kiếm
+248. point — điểm, quan điểm, vấn đề
+249. read — đọc, thư, báo
+250. told — bảo, kể, đừng
+251. yet — chưa/đã...chưa (trong phủ định/câu hỏi)
+252. bad — xấu, tệ, tồi
+253. four — bốn
+254. hard — khó, khó khăn, chăm chỉ
+255. mean — ý, ý nghĩa, nghĩa là
+256. once — một khi, lần, chỉ
+257. support — ủng hộ, hỗ trợ, nuôi
+258. tell — nói; kể
+259. including — bao gồm, kể cả, gồm
+260. music — nhạc, âm nhạc, bản nhạc
+261. power — sức mạnh, quyền lực, điện
+262. seen — chứng kiến, như vậy, nhìn
+263. states — bang, tiểu bang, trạng thái
+264. stop — dừng, ngăn, ngừng
+265. water — nước, xuống nước, mặt nước
+266. based — dựa, căn cứ, cơ sở
+267. believe — tin, tin tưởng, không thể
+268. call — gọi, cuộc gọi, điện
+269. head — đầu, đập, bắn
+270. men — đàn ông, lính, con người
+271. national — quốc gia, quốc tịch, quốc ca
+272. small — nhỏ, nhỏ bé, thị trấn
+273. took — cướp, bắt, nhận
+274. white — trắng, da, bạch cầu
+275. came — trở, vừa, quay
+276. far — xa, bao xa, càng
+277. job — công việc, việc làm, nhiệm vụ
+278. side — phe, bên, cạnh
+279. though — mặc dù, dù sao, dù
+280. try — thử, cố gắng, cố
+281. went — học, quay, xuống
+282. yes — vâng, đồng ý, ừ
+283. actually — thực ra, thật ra, thực sự
+284. american — mỹ, bản xứ, bản địa
+285. later — sau, gặp, sau này
+286. less — ít, bớt, kém
+287. line — đường dây, xếp hàng, vạch
+288. order — lệnh, ra lệnh, trật tự
+289. party — tiệc, bữa, tiệc tùng
+290. run — chạy, điều hành, trốn
+291. says — ghi, bảo, ai
+292. service — phục vụ, dịch vụ, lễ
+293. country — đất nước, tổ quốc, quê
+294. open — mở, mở cửa, mở mắt
+295. season — mùa, giải, mưa
+296. shit — cứt, phân, vớ vẩn
+297. thank — cảm ơn, cám ơn, ơn
+298. children — trẻ em, con cái, trẻ con
+299. everyone — mọi, đều, tất cả
+300. general — tướng, đại tướng, nói chung
+301. trying — cố, cố gắng, thử
+302. united — đoàn kết, thống nhất, hợp nhất
+303. using — sử dụng, dùng, lợi dụng
+304. area — khu vực, vùng, cấm
+305. black — đen, da màu, chợ đen
+306. following — theo dõi, theo, bám
+307. law — luật, luật pháp, pháp luật
+308. makes — khiến, trở nên, điều
+309. together — nhau, chung, cùng
+310. war — chiến tranh, cuộc chiến, chiến
+311. whole — toàn bộ, cả, suốt
+312. car — xe, xe hơi, chiếc
+313. face — mặt, đối mặt, khuôn mặt
+314. five — sáu, vòng, giây
+315. kind — loại, tử tế, kiểu
+316. maybe — có lẽ, có thể, hoặc
+317. per — mỗi, h, km
+318. president — tổng thống, phó tổng thống, chủ tịch
+319. story — câu chuyện, truyện, kể
+320. working — làm việc, hiệu quả, tác dụng
+321. course — tất nhiên, dĩ nhiên, đương nhiên
+322. games — trò chơi, trận đấu, điện tử
+323. health — sức khỏe, sức khoẻ, khỏe mạnh
+324. hope — hy vọng, hi vọng, mong
+325. important — quan trọng, đối với, việc
+326. least — ít nhất, ít ra, hãy
+327. means — nghĩa là, có nghĩa là, ý nghĩa
+328. news — tin tức, tin, tin vui
+329. within — bán kính, vòng, phạm vi
+330. able — khả năng, nhìn, bao giờ
+331. book — sách, cuốn, quyển
+332. early — sớm, sớm vậy, nghỉ
+333. friends — bạn bè, làm bạn, thân
+334. information — thông tin, cung cấp, thêm
+335. local — địa phương, dân, báo
+336. oh — ồ, all, love
+337. post — bưu điện, đăng, trạm
+338. thanks — cảm ơn, cám ơn, nhờ
+339. video — đoạn, điện tử, phim
+340. young — trẻ, trai trẻ, thanh niên
+341. ago — khoảng, lâu, vừa
+342. others — khác, còn, những
+343. social — xã hội, an sinh, xã giao
+344. talk — nói chuyện, bàn, hãy
+345. court — tòa, tòa án, triều đình
+346. fact — thực tế, thật ra, sự thật
+347. given — trao, cơ hội, nhận
+348. guys — mấy, hai, gã
+349. half — nửa, rưỡi, phân nửa
+350. hand — tay, bàn tay, nắm
+351. level — cấp độ, mức độ, tầng
+352. mind — phiền, tâm trí, mất trí
+353. often — thường, thường xuyên, hỏi
+354. single — độc thân, duy nhất, mỗi
+355. become — trở thành, trở nên, biến
+356. body — cơ thể, xác, thi thể
+357. coming — sắp, trở lại, cảm ơn
+358. control — kiểm soát, điều khiển, khống chế
+359. death — tử hình, chết, cái
+360. food — thức ăn, thực phẩm, lương thực
+361. guy — gã, anh chàng, đàn ông
+362. hours — tiếng, đồng hồ, khoảng
+363. office — văn phòng, phòng, tại
+364. pay — trả, trả giá, lương
+365. problem — vấn đề, rắc rối, giải quyết
+366. south — nam, miền, phương
+367. true — sự thật, đích thực, đúng vậy
+368. almost — gần, suýt, suýt nữa
+369. fuck — đéo, đếch, con mẹ
+370. history — lịch sử, tiền sử, làm nên
+371. known — nổi tiếng, quen, bao lâu
+372. large — lớn, to lớn, lượng
+373. lost — mất, lạc, thua
+374. research — nghiên cứu, tìm hiểu, tìm kiếm
+375. room — phòng, căn, khách
+376. several — một vài, một số, vài
+377. started — bắt đầu, kết thúc, khi
+378. taking — chăm sóc, thuốc, mang
+379. university — đại học, trường, đại nhân
+380. win — thắng, chiến thắng, giành
+381. wrong — sai, nhầm, lầm
+382. along — dọc, đi, đầu
+383. anyone — bất kì, bất kỳ, bất cứ
+384. else — còn, thêm, bất cứ
+385. girl — gái, xinh đẹp, con gái
+386. john — toilet, vệ sinh, john summers
+387. matter — sao vậy, đi nữa, cho dù
+388. pretty — khá, xinh đẹp, xinh
+389. remember — nhớ, hãy, từng
+390. air — không khí, trong lành, khí
+391. bit — cắn, một chút, hơi
+392. friend — bạn, thân, cũ
+393. hit — đánh, trúng, đụng
+394. needs — nhu cầu, giúp đỡ, ai
+395. nice — tử tế, dễ thương, đẹp
+396. playing — chơi, vai, đùa
+397. probably — có lẽ, chắc, chắc chắn
+398. saying — ý, bảo, lời
+399. understand — hiểu, rõ, tại sao
+400. yeah — ừ, vâng, uh
+401. york — new york, new, westchester
+402. class — lớp, lớp học, hạng
+403. close — gần, gần gũi, đóng cửa
+404. comes — quay, khi, nó
+405. idea — ý tưởng, ý, ý kiến
+406. international — quốc tế, giải đấu, hải phận
+407. looks — trông, có vẻ, vẻ
+408. past — quá khứ, vượt, suốt
+409. possible — càng, không thể, khả năng
+410. wanted — hỏi, luôn, con
+411. cause — nguyên nhân, gây, bởi vì
+412. due — hạn, do, kính trọng
+413. happy — hạnh phúc, vui, vui vẻ
+414. human — con người, loài người, nhân loại
+415. members — thành viên, hội đồng, đoàn
+416. months — tháng, trời, vòng
+417. move — di chuyển, cử động, nhúc nhích
+418. question — câu, hỏi, thắc mắc
+419. series — loạt, chuỗi, hàng loạt
+420. wait — đợi, chờ, khoan
+421. woman — phụ nữ, đàn bà, đàn ông
+422. ask — yêu cầu, nhờ, mời
+423. community — cộng đồng, công ích, xã hội
+424. data — dữ liệu, thu thập, tải
+425. late — trễ, muộn, khuya
+426. leave — rời, yên, nhắn
+427. north — bắc, phương, phía
+428. saw — lần, cuối, vừa
+429. special — đặc biệt, đặc vụ, món
+430. watch — đồng hồ, coi chừng, trông chừng
+431. either — hoặc, cũng, chẳng
+432. fucking — chết tiệt, khốn kiếp, chó
+433. future — tương lai, quá khứ, trong
+434. light — ánh sáng, đèn, thắp
+435. low — thấp, hạ, thiếu
+436. million — triệu, một triệu, triệu đô
+437. morning — sáng, buổi, sáng mai
+438. police — cảnh sát, đồn, sở
+439. short — ngắn, ngắn ngủi, thiếu
+440. stay — tránh, yên, xa
+441. taken — chiếm, chụp, chăm sóc
+442. age — tuổi, tuổi tác, thời đại
+443. buy — mua, ly, mời
+444. deal — thỏa thuận, thoả thuận, to tát
+445. rather — thà, thay vì, khá
+446. reason — có lý do, lý do, lí do
+447. red — đỏ, đèn đỏ, màu
+448. report — báo cáo, bản, trình diện
+449. soon — sớm, ngay, sắp
+450. third — ba, tầng, lớp
+451. turn — lượt, rẽ, bật
+452. whether — cho dù, liệu, dù
+453. among — giữa, dân, nằm
+454. check — kiểm tra, séc, coi
+455. development — phát triển, tiến triển, giai đoạn
+456. form — dạng, hình thức, hình dạng
+457. further — xa, thông báo, tiến
+458. heart — tim, trái tim
+459. minutes — phút, vòng, khoảng
+460. myself — bản thân, tự, một mình
+461. services — dịch vụ, phục vụ, lễ
+462. yourself — bản thân, tự, chính
+463. act — hành động, cư xử, màn
+464. although — mặc dù, airbending, dù
+465. asked — yêu cầu, nhờ, mời
+466. child — đứa, trẻ, trẻ con
+467. fire — lửa, cháy, ngừng bắn
+468. fun — vui, vui vẻ, thú vị
+469. living — sống, khách, kiếm
+470. major — thiếu tá, nghiêm trọng, lớn
+471. media — truyền thông, giới, phương tiện
+472. phone — điện thoại, điện, di động
+473. players — cầu thủ, tay chơi, khách
+474. art — nghệ thuật, tác phẩm, tranh
+475. behind — đằng, lưng, sau
+476. building — tòa, toà, tòa nhà
+477. easy — dễ dàng, dễ, bình tĩnh
+478. gonna — định, ổn, mất
+479. market — thị trường, chợ, chợ đen
+480. near — gần, đường, bên
+481. non — tiếng, il
+482. plan — kế hoạch, tính, định
+483. political — chính trị, chính trị gia, sự nghiệp
+484. quite — khá, hẳn, hoàn toàn
+485. six — sáu, bảy, khoảng
+486. talking — nói chuyện, hiểu, con
+487. west — tây, miền, phương
+488. works — hoạt động, hiệu quả, tác dụng
+489. according — theo, dựa, báo cáo
+490. available — rảnh, sẵn, trống
+491. education — giáo dục, nền, học hành
+492. final — cuối cùng, cuối, chung kết
+493. former — cựu, cũ, thành viên
+494. front — mặt, trước mắt, đằng
+495. kids — trẻ, trẻ con, trẻ em
+496. list — danh sách, bản, mời
+497. ready — sẵn sàng, chuẩn bị, xong
+498. sometimes — đôi khi, thỉnh thoảng, đôi
+499. son — con trai, thằng, khốn
+500. street — phố, đường phố, đường
+501. bring — mang, đem, trở lại
+502. college — đại học, cao đẳng, trường
+503. current — hiện tại, dòng điện, hiện nay
+504. example — ví dụ, làm gương, thí dụ
+505. experience — kinh nghiệm, nghiệm, trải
+506. heard — nghe, tiếng, lời
+507. london — 
+508. meet — gặp, hân hạnh, rất
+509. program — chương trình, lập trình, dự án
+510. type — loại, tuýp, kiểu
+511. baby — cưng, đứa, bé
+512. chance — cơ hội, khả năng, cuối cùng
+513. father — cha, cha ta, cha anh
+514. march — hành quân, tuần hành, diễu hành
+515. process — quá trình, quy trình, tiến trình
+516. song — bài, hát, bản nhạc
+517. study — nghiên cứu, học, học hành
+518. word — chữ, hứa, từ
+519. across — đối diện, ngang, xuyên
+520. action — hành động, hoạt động, diễn
+521. clear — rõ ràng, rõ, trống
+522. gave — tặng, từ bỏ, giao
+523. gets — càng, nhận, khi
+524. himself — tự sát, bản thân, tự
+525. month — tháng, khoảng, đô
+526. outside — ngoài, bên, đợi
+527. self — tự vệ, bản chất, bản thân
+528. students — học sinh, sinh viên, học trò
+529. words — từ ngữ, lời nói, chữ
+530. board — hội đồng, bảng, quản trị
+531. cost — giá, tốn, chi phí
+532. cut — cắt, đứt, cắt cổ
+533. dr — tiến sĩ, bác sĩ, reid
+534. field — đồng, thực địa, chiến trường
+535. held — giam giữ, ôm, bắt giữ
+536. instead — thay vì, thay, dùng
+537. main — chính, cổng, quan trọng
+538. moment — khoảnh khắc, giây phút, thời khắc
+539. mother — mẹ, đứa, cha
+540. road — đường, lên đường, chạy
+541. seems — vẻ, có vẻ, dường như
+542. thinking — suy nghĩ, bắt đầu, cứ
+543. town — thị trấn, thành phố, rời
+544. wants — ai, nói chuyện, bé
+545. de — rio, bourgh, lorenzo
+546. department — bộ phận, sở, khoa
+547. energy — năng lượng, sức, tăng
+548. fight — chiến đấu, đánh, đấu
+549. fine — ổn, khỏe, tốt
+550. force — lực lượng, ép, vũ lực
+551. hear — nghe, giọng, tiếng
+552. issue — vấn đề, giải quyết, lớn
+553. played — chơi, vai, đóng
+554. points — điểm, quan điểm, ghi
+555. price — giá, giá cả, trả giá
+556. re — chúng, họ, chúng tôi
+557. rest — nghỉ ngơi, phần, nghỉ
+558. results — kết quả, xét nghiệm, đợi
+559. running — chạy, điều hành, tranh cử
+560. shows — xuất hiện, trình diễn, chương trình
+561. space — không gian, vũ trụ, trống
+562. summer — hè, mùa, nghỉ hè
+563. term — thuật ngữ, nhiệm kỳ, cụm
+564. wife — vợ, vợ con, con gái
+565. america — mỹ, panama, hàng loạt
+566. beautiful — đẹp, xinh đẹp, đẹp đẽ
+567. date — hẹn hò, hẹn, buổi
+568. goes — xảy, xuống, mất
+569. killed — giết, bởi, cha
+570. land — đất, vùng đất, hạ cánh
+571. miss — nhớ, lỡ, trượt
+572. project — dự án, kế hoạch, bí mật
+573. sex — tình dục, làm tình, quan hệ
+574. shot — bắn, phát, đạn
+575. site — trang web, trang, công trường
+576. strong — mạnh mẽ, mạnh, khỏe mạnh
+577. account — tài khoản, rút, gửi
+578. co — nhiễm độc, bò
+579. especially — đặc biệt, nhất là, thích
+580. eyes — mắt, nhắm mắt, đôi
+581. include — bao gồm, gồm, mở rộng
+582. june — 
+583. parents — bố mẹ, cha mẹ, phụ huynh
+584. period — kinh, thời kỳ, kỳ
+585. position — vị trí, tư thế, địa vị
+586. record — kỷ lục, hồ sơ, ghi âm
+587. similar — tương tự, giống, khá
+588. total — tổng cộng, hoàn toàn, xa lạ
+589. above — vượt, cao, phía
+590. club — lạc bộ, câu, clb
+591. common — chung, điểm, phổ biến
+592. died — chết, qua đời, bà
+593. film — phim, quay phim, điện ảnh
+594. happened — xảy, chuyện, đã
+595. knew — biết điều, rõ, hiểu
+596. lead — dẫn, đầu mối, dẫn đầu
+597. likely — khả năng, nhiều, có vẻ
+598. military — quân đội, quân sự, quân nhân
+599. perfect — hoàn hảo, tuyệt vời, tuyệt
+600. personal — cá nhân, riêng tư, riêng
+601. security — an ninh, bảo mật, nhân viên
+602. share — chia sẻ, chia, chung
+603. st — santo domingo, mùng, trung đoàn
+604. tv — truyền hình, kênh
+605. won — thắng, sẽ, chịu
+606. april — tháng, tư
+607. center — trung tâm, giữa, vũ trụ
+608. county — hạt, quận, nhà tù
+609. couple — cặp, vài, một vài
+610. dead — chết, xác, chắc
+611. english — tiếng, thi, thế thì
+612. happen — xảy, diễn, chuyện
+613. hold — ôm, giữ, cầm
+614. industry — công nghiệp, ngành, nền
+615. inside — vào, vô, bên
+616. issues — vấn đề, giải quyết, rắc rối
+617. online — mạng, trực tuyến, kết nối
+618. player — cầu thủ, tay chơi, play
+619. private — riêng, riêng tư, tư
+620. problems — vấn đề, rắc rối, giải quyết
+621. return — trở, trở lại, đổi
+622. rights — quyền, quyền lợi, nhân quyền
+623. sense — hợp lý, có lý, vô lý
+624. star — ngôi sao, điện ảnh, rock
+625. test — kiểm tra, xét nghiệm, thử nghiệm
+626. view — quan điểm, khung cảnh, quang cảnh
+627. weeks — tuần, vài, hàng
+628. break — phá, vỡ, chia tay
+629. british — 
+630. companies — công ty, dược, khai thác
+631. event — sự kiện, trường hợp, tổ chức
+632. higher — cao, cao cả, cấp
+633. hour — tiếng, đồng hồ, khoảng
+634. member — thành viên, tư cách, hội
+635. middle — giữa, nửa đêm, đệm
+636. needed — cần thiết, giúp đỡ, bảo
+637. present — quà, món, giới thiệu
+638. result — kết quả, hậu quả, dẫn
+639. sorry — xin lỗi, tiếc, rất
+640. takes — giá, phải, bất cứ
+641. training — huấn luyện, tập luyện, luyện tập
+642. wish — ước, điều ước, chúc
+643. answer — trả lời, câu, máy
+644. boy — nhóc, ngoan, con trai
+645. design — thiết kế, bản, lỗi
+646. finally — cuối cùng, vui, nhận
+647. girls — gái, con gái, mấy
+648. gold — vàng, mỏ, đồng
+649. gone — biến, xa, mất
+650. guess — đoán, chắc, có lẽ
+651. interest — hứng thú, quan tâm, lợi ích
+652. july — tháng, bảy
+653. king — vua, nhà vua, đức
+654. learn — học, học hỏi, tìm hiểu
+655. policy — chính sách, hợp đồng, đối ngoại
+656. society — xã hội, thượng lưu, tầng lớp
+657. added — thêm, bổ sung, cộng
+658. al — ra, s
+659. alone — một mình, cô đơn, đơn độc
+660. average — trung bình, bình thường, tầm thường
+661. bank — ngân hàng, bờ, băng
+662. brought — mang, đem, dẫn
+663. certain — nhất định, chắc chắn, một số
+664. church — nhà thờ, chuông, lễ
+665. east — đông, phía, sang
+666. hands — tay, bàn tay, giơ
+667. hot — nóng, nóng bỏng, hấp dẫn
+668. longer — lâu, bao lâu, dài
+669. medical — y tế, y học, y khoa
+670. movie — phim, bộ, điện ảnh
+671. original — gốc, ban đầu, bản gốc
+672. park — công viên, đỗ, đậu
+673. performance — trình diễn, màn, diễn
+674. press — báo chí, nhà báo, giới
+675. received — nhận, cuộc gọi, lá
+676. role — vai trò, vai, đóng
+677. sent — gửi, cử, gởi
+678. themselves — bản thân, tự, chính
+679. tried — cố, thử, cố gắng
+680. worked — hiệu quả, làm việc, tác dụng
+681. worth — đáng giá, đáng, xứng đáng
+682. areas — khu vực, vùng, lĩnh vực
+683. became — trở thành, trở nên, thành
+684. bill — dự luật, hóa đơn, thông qua
+685. books — sách, cuốn, quyển
+686. cool — tuyệt, ngầu, sành điệu
+687. director — đạo diễn, giám đốc, phó giám đốc
+688. exactly — chính xác, hẳn, chính
+689. giving — bỏ cuộc, từ bỏ, tặng
+690. ground — đất, mặt đất, nằm xuống
+691. meeting — họp, cuộc, gặp mặt
+692. provide — cung cấp, chu cấp, dịch vụ
+693. questions — thắc mắc, câu, một vài
+694. relationship — quan hệ, mối, giữa
+695. september — tháng, ảnh hưởng, tháng tư
+696. sound — âm thanh, tiếng, giọng
+697. source — nguồn, nguồn gốc, tin cậy
+698. usually — thường, như vậy, luôn
+699. value — giá trị, coi trọng, trân trọng
+700. evidence — bằng chứng, chứng cứ, chứng cớ
+701. follow — theo, tuân, bám
+702. lives — mạng, cuộc sống, cứu mạng
+703. official — chính thức, viên chức, quan chức
+704. ok — ổn
+705. production — sản xuất, sản phẩm, tác phẩm
+706. rate — nhịp, tỷ lệ, tỉ lệ
+707. reading — đọc, cuốn, báo
+708. round — tròn, hiệp, vòng
+709. save — cứu, cứu thế giới, tiết kiệm
+710. stand — đứng, yên, nổi
+711. stuff — đồ, hàng, mấy
+712. tax — thuế, trốn thuế, thu
+713. whatever — đi nữa, dù, bất cứ
+714. amount — lượng, số lượng, khoản
+715. blue — xanh, màu, mắt xanh
+716. countries — quốc gia, nước, nghèo
+717. david — bán chạy, marilyn, tác giả
+718. drive — lái, lái xe, ổ cứng
+719. eat — ăn, cơm, thịt
+720. fall — ngã, rơi, té
+721. fast — nhanh, nhanh chóng, càng
+722. federal — liên bang, cục, chính quyền
+723. feeling — cảm giác, cảm thấy, linh cảm
+724. felt — cảm thấy, cảm nhận, cảm giác
+725. green — xanh, lá, màu
+726. league — liên minh, giải, giải đấu
+727. management — quản lý, quản lí, ban
+728. match — khớp, trận đấu, trùng
+729. model — người mẫu, mẫu, mô hình
+730. picture — ảnh, hình, bức
+731. size — cỡ, kích thước, kích cỡ
+732. step — bước, lùi, bước đi
+733. trust — tin, tin tưởng, niềm
+734. central — trung tâm, trung ương, central city
+735. changes — thay đổi, đổi, thay
+736. england — quốc, lợi phẩm, tịch thu
+737. forward — mong chờ, tiến, mong
+738. groups — nhóm, chia, hội
+739. hey — nè, chào
+740. key — chìa khóa, chìa khoá, chìa
+741. mom — mẹ, bé, cháu
+742. page — trang, lật, nhắn
+743. paid — trả, lương, công
+744. range — tầm, phạm vi, trường bắn
+745. review — xem xét, xem lại, phê bình
+746. science — khoa học, viễn tưởng, môn
+747. trade — trao đổi, đổi, giao dịch
+748. uk — 
+749. upon — xửa, ngày xưa, ngày
+750. various — địa điểm, khắp, một số
+751. attention — chú ý, thu hút, để ý
+752. brother — em trai, anh trai, anh em
+753. cannot — thể, không thể, nổi
+754. character — nhân vật, tính cách, cá tính
+755. chief — trưởng, sếp, thượng sỹ
+756. cup — cốc, tách, ly
+757. football — bóng, bóng đá, bầu dục
+758. hate — ghét, căm ghét, tớ
+759. james — james jesse, james martin, james dean
+760. led — dẫn, dẫn dắt, lãnh đạo
+761. looked — trông, vẻ, mắt
+762. lower — thấp, hạ, cúi
+763. natural — tự nhiên, thiên nhiên, bẩm sinh
+764. october — 
+765. property — tài sản, đất, bất động sản
+766. quality — chất lượng, phẩm chất, số lượng
+767. send — gửi, cử, gởi
+768. style — phong cách, kiểu
+769. vote — bỏ phiếu, bầu, phiếu
+770. amazing — tuyệt vời, tuyệt, kinh ngạc
+771. august — tháng, tám, thay
+772. blood — máu, đổ máu, chảy
+773. china — sứ, trung quốc, đồ
+774. complete — hoàn thành, hoàn tất, hoàn chỉnh
+775. dog — chó, cún, nuôi
+776. economic — kinh tế, tăng trưởng, cố vấn
+777. hell — quái, địa ngục, quái quỷ
+778. involved — liên quan, dính líu, dính
+779. itself — tự, bản thân, tạo
+780. language — ngôn ngữ, cẩn thận, cơ thể
+781. lord — chúa, thưa, chúa tể
+782. november — 
+783. oil — dầu, dầu mỏ, liu
+784. related — liên quan, họ hàng, quan hệ
+785. serious — nghiêm túc, nghiêm trọng, nghiêm chỉnh
+786. stage — sân khấu, giai đoạn, xe ngựa
+787. terms — điều khoản, điều kiện, thỏa thuận
+788. title — danh hiệu, tựa, tước
+789. add — thêm, bổ sung, cộng
+790. article — bài, báo, tạp chí
+791. attack — tấn công, lên cơn, đau
+792. born — sinh, ra đời, chào đời
+793. damn — chết tiệt, mẹ kiếp, khốn kiếp
+794. decided — quyết định, quyết, nên
+795. decision — quyết định, đúng đắn, lựa chọn
+796. enjoy — tận hưởng, thưởng thức, thích thú
+797. entire — toàn bộ, toàn, cả
+798. french — pháp, chiên, french quarter
+799. january — 
+800. kill — giết, tao, cố
+801. met — gặp, tại, gái
+802. perhaps — có lẽ, hay, có thể
+803. poor — tội nghiệp, nghèo, nghèo khổ
+804. release — thả, giải thoát, giải phóng
+805. situation — tình hình, tình huống, tình thế
+806. technology — công nghệ, kỹ thuật, tiên tiến
+807. turned — tắt, từ chối, lưng
+808. website — trang web, web, trang
+809. written — viết, ghi, chữ
+810. choice — lựa chọn, chọn lựa, chọn
+811. code — mã, mật mã, mã số
+812. considered — coi, cân nhắc, xem xét
+813. continue — tiếp tục, tiếp, cứ
+814. council — hội đồng, ban, họp
+815. cover — yểm trợ, bọc, che
+816. currently — hiện, hiện tại, hiện giờ
+817. door — cửa, cánh, cửa nhà
+818. election — bầu cử, cuộc, thắng cử
+819. european — 
+820. events — sự kiện, sự việc, chuỗi
+821. financial — tài chính, tài chánh, kinh tế
+822. foreign — nước ngoài, ngoại, quốc
+823. hair — tóc, mái tóc, lông
+824. increase — tăng, gia tăng, tăng cường
+825. legal — hợp pháp, pháp lý, pháp luật
+826. lose — mất, thua, đánh
+827. michael — michael scofield, lincoln burrows, chicago
+828. pick — đón, chọn, nhấc
+829. race — đua, chủng tộc, chạy đua
+830. seem — vẻ, dường như, có vẻ
+831. seven — bảy, tám, bốn
+832. sign — dấu hiệu, ký, kí
+833. simple — đơn giản, dễ, rất
+834. simply — đơn giản, bằng, mất
+835. staff — nhân viên, gậy, trượng
+836. super — siêu, lợn, năng lực
+837. union — công đoàn, nghiệp đoàn, liên minh
+838. walk — dạo, bước đi, đi lại
+839. washington — vũ đài, george washington, bục
+840. bed — giường, ngủ, nằm
+841. began — bắt đầu, bắt đầu từ, rồi
+842. built — xây, xây dựng, dựng
+843. career — sự nghiệp, nghề nghiệp, nghề
+844. changed — thay đổi, đổi, thay
+845. crazy — điên, điên rồ, điên khùng
+846. daily — hằng, hàng, lương thực
+847. daughter — con gái, đứa, gái
+848. december — 
+849. die — chết, sắp, hoặc
+850. difficult — khó khăn, khó, rất
+851. figure — tìm hiểu, giải quyết, tự
+852. hospital — bệnh viện, viện, nằm
+853. knows — biết điều, rõ, ai
+854. loss — mất mát, mất trí nhớ, tổn thất
+855. modern — hiện đại, ngày nay, tân tiến
+856. ones — nhỏ, những, đứa
+857. paper — giấy, tờ, báo
+858. parts — bộ phận, phần, phụ tùng
+859. popular — nổi tiếng, phổ biến, trở nên
+860. published — xuất bản, công bố, đăng
+861. safe — an toàn, két, sắt
+862. starting — bắt đầu, bắt đầu từ, sắp
+863. systems — hệ thống, hệ, miễn dịch
+864. version — phiên bản, bản, ngắn gọn
+865. voice — giọng, tiếng nói, hát
+866. whose — đứa, gái, kẻ
+867. writing — viết, chữ viết, chữ
+868. army — quân đội, quân, đội
+869. australia — úc, bờ, biển
+870. earth — trái đất, mặt đất, đất
+871. forget — quên, nhé, đừng
+872. goal — mục tiêu, mục đích, đích
+873. huge — khổng lồ, to lớn, bự
+874. internet — mạng, lnternet, trên
+875. listen — nghe, lắng nghe, nè
+876. okay — ổn, sẽ
+877. practice — tập, luyện tập, tập luyện
+878. rules — luật, luật lệ, quy tắc
+879. sea — biển, biển cả, khơi
+880. sir — thưa, sếp, ngài
+881. success — thành công, sự, thất bại
+882. towards — tiến, đối với, thẳng
+883. waiting — chờ, đợi, chờ đợi
+884. ways — cách, đường, bằng
+885. access — truy cập, tiếp cận, quyền
+886. base — căn cứ, gôn, cơ sở
+887. below — dưới, nhiệt độ, tầng
+888. created — tạo, quái vật, do
+889. deep — sâu, thẳm, sâu sắc
+890. followed — theo, theo dõi, bám
+891. la — la la, loola, muôn năm
+892. lol — 
+893. mark — đánh dấu, dấu ấn, dấu hiệu
+894. missing — mất tích, thiếu, lỡ
+895. offer — đề nghị, dâng, mời
+896. pass — thông qua, bỏ qua, ngang
+897. professional — chuyên nghiệp, chuyên môn, nghề nghiệp
+898. released — thả, giải phóng, phóng thích
+899. risk — mạo hiểm, rủi ro, nguy cơ
+900. schools — trường, trường học, hơi ngạt
+901. sleep — ngủ, giấc ngủ, ngon
+902. table — bàn, dọn, đặt
+903. ten — mười, khoảng, giây
+904. truth — sự thật, nói, lời
+905. ball — bóng, quả, banh
+906. box — hộp, hòm, thùng
+907. build — xây, xây dựng, dựng
+908. card — thẻ, danh thiếp, thiệp
+909. cases — trường hợp, án, ca
+910. dark — bóng tối, tối, đen tối
+911. district — quận, bầu cử, khu vực
+912. europe — âu, châu, khắp
+913. george — 
+914. india — 
+915. mine — mỏ, của, thuộc
+916. minister — bộ trưởng, mục sư, nội các
+917. note — giấy, ghi chú, nhắn
+918. percent — phần trăm, tăng, giảm
+919. piece — mảnh, miếng, mẩu
+920. products — sản phẩm, sữa, sản xuất
+921. recent — gần, mới đây, liên quan
+922. seeing — hẹn hò, vui, nhìn
+923. straight — thẳng, nói thẳng, thẳng thắn
+924. visit — thăm, viếng thăm, ghé
+925. wall — tường, bức, treo
+926. wanna — muốn, chơi, tớ
+927. wrote — viết, ghi, thơ
+928. allowed — phép, quyền, dùng
+929. boys — trai, chàng, anh em
+930. culture — văn hóa, nền, văn hoá
+931. etc — v, vân, bla
+932. fans — hâm mộ, fan, cổ động viên
+933. february — 
+934. gives — quyền, quan tâm, khiến
+935. growth — tăng trưởng, phát triển, bất thường
+936. included — bao gồm, kể cả, kèm
+937. married — kết hôn, cưới, lập
+938. officer — sĩ quan, sỹ quan, nhân viên
+939. pain — đau, đau đớn, nỗi
+940. paul — matthew, paul kellerman, dính
+941. places — địa điểm, nơi, ở
+942. respect — tôn trọng, kính trọng, lòng
+943. response — phản ứng, phản hồi, đáp
+944. river — sông, dòng, bờ
+945. rock — đá, tảng, hòn
+946. shall — chúa, nhé, ngài
+947. speak — nói chuyện, tiếng, hãy
+948. specific — cụ thể, đặc biệt, rõ ràng
+949. standard — tiêu chuẩn, chuẩn, thông thường
+950. tonight — nay, tối, đêm
+951. write — viết, ghi, báo cáo
+952. album — ra mắt, solo, thu
+953. century — thế kỷ, thế kỉ
+954. charge — phụ trách, trách nhiệm, sạc
+955. cold — lạnh, lạnh lùng, cảm
+956. create — tạo, hướng, hoàn hảo
+957. effect — ảnh hưởng, hiệu ứng, tác dụng
+958. eight — tám, chín, bảy
+959. except — ngoại trừ, trừ, tất cả
+960. eye — mắt, để mắt, trông chừng
+961. funny — buồn cười, hài hước, vui
+962. ii — 
+963. limited — giới hạn, hạn chế, có hạn
+964. moving — di chuyển, chuyển, chuyển động
+965. network — mạng lưới, mạng, kênh
+966. peace — hòa bình, bình, bình yên
+967. provided — cung cấp, miễn là, sẵn
+968. recently — gần, mới đây, vừa mới
+969. required — yêu cầu, cần thiết, bắt buộc
+970. sales — bán, hàng, doanh số
+971. spent — dành, tiêu, trải
+972. store — cửa hàng, tiệm, tạp hóa
+973. student — sinh viên, học sinh, học trò
+974. tomorrow — ngày mai, mai, sáng mai
+975. track — theo dõi, đường ray, dò
+976. via — thông qua, nối, kết nối
+977. watching — theo dõi, quan sát, trông chừng
+978. weight — cân, nặng, trọng lượng
+979. addition — bổ sung, ngoài, thêm
+980. ahead — tự nhiên, tiến, phía
+981. allow — phép, xảy, ngài
+982. anti — chế độ, thuyền, chống
+983. association — hiệp hội, dính líu, hội
+984. beat — đánh bại, đánh, đập
+985. brown — nâu, màu, cú
+986. capital — thủ đô, vốn, kinh thành
+987. chinese — 
+988. committee — ủy ban, uỷ ban, hội đồng
+989. conference — hội nghị, họp, họp báo
+990. difference — khác biệt, phân biệt, sự
+991. double — đôi, gấp, đúp
+992. expect — mong, mong đợi, mong chờ
+993. gas — xăng, khí, ga
+994. island — đảo, hòn, rời
+995. moved — chuyển, dọn, di chuyển
+996. normal — bình thường, thông thường, thường
+997. plans — kế hoạch, bản vẽ, dự định
+998. population — dân số, dân cư, cư dân
+999. potential — tiềm năng, tiềm tàng, khả năng
+1000. pressure — áp lực, áp suất, huyết áp
+1001. radio — vô tuyến, đài, bộ đàm
+1002. russian — nga, neski, đầu hàng
+1003. station — trạm, nhà ga, đồn
+1004. text — nhắn tin, nhắn, văn bản
+1005. treatment — điều trị, chữa trị, trị liệu
+1006. western — tây, phương, miền
+1007. ass — mông, đít, đá đít
+1008. beginning — khởi đầu, bắt đầu, ban đầu
+1009. california — sacramento, nebraska, indiana
+1010. campaign — chiến dịch, tranh cử, vận động
+1011. certainly — chắc chắn, tất nhiên, chắc
+1012. completely — hoàn toàn, điên, quên
+1013. content — hài lòng, nội dung, bằng lòng
+1014. credit — tín dụng, công lao, thẻ
+1015. cross — thập, vượt, thánh giá
+1016. described — mô tả, miêu tả, tả
+1017. despite — bất chấp, mặc dù, dù
+1018. female — nữ, con cái, mái
+1019. focus — tập trung, chú ý, công việc
+1020. hi — chào, chào hỏi, gửi
+1021. husband — chồng, chị, vợ
+1022. ice — băng, đá, nước đá
+1023. individual — cá nhân, cá thể, độc lập
+1024. interesting — thú vị, lý thú, hấp dẫn
+1025. join — tham gia, gia nhập, nhập
+1026. kept — giữ, tiếp tục, suốt
+1027. leading — dẫn, dẫn đầu, hàng đầu
+1028. loved — yêu, yêu quý, yêu thương
+1029. message — nhắn, thông điệp, tin
+1030. miles — dặm, km, cách
+1031. nearly — gần, suýt, suýt nữa
+1032. particular — đặc biệt, cụ thể, trường hợp
+1033. previous — trước đây, kiếp, trước kia
+1034. quickly — nhanh, nhanh chóng, mau
+1035. region — vùng, khu vực, đồng minh
+1036. reported — báo cáo, báo, thông báo
+1037. section — khu vực, mục, bộ phận
+1038. sort — dạng, kiểu, giải quyết
+1039. speed — tốc độ, tăng tốc, vận tốc
+1040. travel — du lịch, du hành, đi lại
+1041. consider — cân nhắc, xem xét, coi
+1042. contact — liên lạc, tiếp xúc, liên hệ
+1043. drop — giọt, thả, ghé
+1044. fair — công bằng, hội chợ, thật
+1045. feet — chân, mét, bàn chân
+1046. jesus — chúa, đức chúa, rock
+1047. kid — nhóc, thằng, trẻ con
+1048. link — liên kết, kết nối, mắt xích
+1049. positive — tích cực, dương tính, lạc quan
+1050. sale — bán, mua bán, giảm giá
+1051. throughout — khắp, suốt, xuyên
+1052. tour — tham quan, chuyến, lưu diễn
+1053. welcome — chào mừng, chào đón, chi
+1054. absolutely — hoàn toàn, tuyệt đối, chắc chắn
+1055. additional — thêm, bổ sung, dự bị
+1056. beyond — vượt, tầm, nằm
+1057. conditions — điều kiện, khắc nghiệt, môi trường
+1058. earlier — sớm, nãy, hồi
+1059. extra — thêm, dư, thừa
+1060. forces — lực lượng, thế lực, đặc nhiệm
+1061. immediately — lập tức, ngay, tức khắc
+1062. jobs — việc làm, công việc, c
+1063. leaving — rời, sắp, bỏ
+1064. minute — phút, lát, một chút
+1065. nature — tự nhiên, thiên nhiên, bản chất
+1066. numbers — con số, số, số liệu
+1067. quick — nhanh, nhanh chóng, mau
+1068. sell — bán, giá, hàng
+1069. significant — đáng kể, ý nghĩa, nghiêm trọng
+1070. studies — nghiên cứu, học hành, học
+1071. unless — trừ, trừ phi, tiền
+1072. winning — thắng, chiến thắng, thắng thế
+1073. agree — đồng ý, đồng tình, nhất trí
+1074. canada — 
+1075. clean — sạch, sạch sẽ, dọn dẹp
+1076. computer — máy tính, vi tính, mạng
+1077. construction — xây dựng, công trường, công trình
+1078. episode — tập, chương, scenes
+1079. favorite — thích, ưa thích, yêu
+1080. income — thu nhập, thu, séc
+1081. justice — công lý, công bằng, thực thi
+1082. levels — mức độ, mức, nồng độ
+1083. manager — quản lý, giám đốc, quản lí
+1084. movement — chuyển động, phong trào, di chuyển
+1085. photo — ảnh, hình, chụp
+1086. posted — đăng, cập nhật, thông báo
+1087. safety — an toàn, chốt, đảm bảo
+1088. san — san diego, san francisco
+1089. scene — hiện trường, cảnh, có mặt
+1090. sold — bán, bán đứng, giá
+1091. sounds — nghe, vẻ, âm thanh
+1092. spend — dành, tiêu, suốt
+1093. statement — tuyên bố, phát biểu, khai
+1094. sun — mặt trời, nắng, ánh
+1095. teams — đội, chiến thuật, toàn
+1096. ability — khả năng, năng lực, sức mạnh
+1097. announced — công bố, tuyên bố, thông báo
+1098. asking — yêu cầu, nhờ, xin
+1099. calling — gọi, điện, điện thoại
+1100. coach — huấn luyện viên, xe ngựa, huấn luyện
+1101. collection — sưu tập, bộ, sưu tầm
+1102. continued — tiếp tục, liên tục, hợp tác
+1103. costs — giá, chi phí, tốn
+1104. definitely — chắc chắn, nhất định, dứt khoát
+1105. designed — thiết kế, nhằm, bộ máy
+1106. expected — mong đợi, dự kiến, mong chờ
+1107. friday — thứ, sáu, tờ
+1108. gun — súng, khẩu, chĩa
+1109. happens — xảy, dù, chuyện
+1110. heavy — nặng, nặng nề, nặng trĩu
+1111. includes — bao gồm, kể cả, quận
+1112. knowledge — kiến thức, hiểu biết, tri thức
+1113. particularly — đặc biệt, hẳn, vẻ
+1114. search — tìm kiếm, lục soát, khám xét
+1115. subject — chủ đề, đối tượng, đề tài
+1116. train — tàu, lửa, xe lửa
+1117. wide — rộng, rộng lớn, mở rộng
+1118. wow — chà, ôi chao, quào
+1119. author — tác giả, nhà văn, bán chạy
+1120. centre — trung tâm, cá voi, thiên hà
+1121. claim — khẳng định, tuyên bố, đòi
+1122. dad — bố, ba, cha
+1123. developed — phát triển, phát minh, thiết bị
+1124. fear — sợ, sợ hãi, nỗi
+1125. fit — phù hợp, hợp, hòa nhập
+1126. generally — thường, nói chung, chung chung
+1127. german — đức, tiếng đức, đức đó
+1128. global — toàn cầu, nóng, ấm
+1129. goals — mục tiêu, mục đích, đạt
+1130. gotta — phải, tớ, quay
+1131. hotel — khách sạn, khách, tại
+1132. interested — hứng thú, quan tâm, thích thú
+1133. judge — thẩm phán, phán xét, đánh giá
+1134. lady — quý, tiểu thư, bà già
+1135. leader — lãnh đạo, thủ lĩnh, chỉ huy
+1136. letter — thư, lá, bức
+1137. lines — đường dây, thoại, phòng tuyến
+1138. material — vật liệu, tài liệu, vật chất
+1139. named — tên, đặt, airbender
+1140. nobody — ai, chẳng, ngoài
+1141. opportunity — cơ hội, lỡ, tuyệt vời
+1142. plus — cộng, thêm, điểm
+1143. pre — 
+1144. product — sản phẩm, hàng, chuyển
+1145. regular — bình thường, thường xuyên, thông thường
+1146. secretary — thư ký, thư kí, bộ trưởng
+1147. sister — em gái, chị, chị em
+1148. stories — câu chuyện, truyện, kể
+1149. unit — đơn vị, robot, thiết bị
+1150. workers — công nhân, lao động, nhân công
+1151. annual — thường niên, hàng, kỷ niệm
+1152. anymore — chịu, thêm, giờ
+1153. bar — quán, quầy, quày
+1154. battle — trận, chiến, chiến trường
+1155. brain — não, bộ não, tế bào
+1156. contract — hợp đồng, kèo, bản
+1157. degree — bằng cấp, mức độ, độ
+1158. families — gia đình, gia tộc, nạn nhân
+1159. features — nét, tính năng, đặc điểm
+1160. finished — xong, hoàn thành, hoàn tất
+1161. floor — sàn, tầng, sàn nhảy
+1162. france — 
+1163. growing — mọc, phát triển, trưởng thành
+1164. hurt — hại, bị thương, đau
+1165. image — hình ảnh, hình tượng, hình
+1166. insurance — bảo hiểm, bảo hiểm nhân thọ, bảo hiểm y tế
+1167. majority — đa số, phần lớn, phiếu
+1168. meant — ý nghĩa, ý, nghĩa là
+1169. opening — mở, khai trương, mở màn
+1170. opinion — ý kiến, quan điểm, theo
+1171. physical — thể chất, vật lý, thể xác
+1172. pro — chuyên nghiệp, golf, công
+1173. reach — liên lạc, đạt, tầm
+1174. rule — cai trị, luật, thống trị
+1175. seriously — nghiêm túc, nghiêm trọng, nặng
+1176. sports — thể thao, môn, hâm mộ
+1177. stupid — ngu ngốc, ngu, ngốc
+1178. successful — thành công, thành đạt, cuộc
+1179. active — hoạt động, núi lửa, tích cực
+1180. administration — chính quyền, quản lý, quản trị
+1181. approach — tiếp cận, tiến, cách
+1182. australian — 
+1183. biggest — lớn, bự, hâm mộ
+1184. cancer — ung thư, tuyến, vú
+1185. civil — nội chiến, dân sự, công dân
+1186. dance — nhảy, khiêu vũ, điệu
+1187. defense — phòng thủ, biện hộ, bào chữa
+1188. direction — hướng, ngược lại, dặm
+1189. independent — độc lập, tự lập, nhà thầu
+1190. master — sư, chủ, phụ
+1191. none — liên quan, chẳng, số
+1192. reasons — lý do, lí do, có lý do
+1193. russia — 
+1194. ship — tàu, tầu, phi thuyền
+1195. stock — cổ phiếu, chứng khoán, cổ phần
+1196. trump — chủ bài, sói, át
+1197. weekend — tuần, cuối, nghỉ
+1198. wonder — thắc mắc, hèn chi, tự
+1199. worst — tệ, tồi tệ, tệ hại
+1200. africa — n l, thỏ, tu
+1201. awesome — tuyệt, tuyệt vời, quá
+1202. band — nhạc, ban, ban nhạc
+1203. beach — biển, bãi, bờ
+1204. cash — tiền mặt, ngân hàng, kiếm
+1205. clearly — rõ ràng, rõ, suy nghĩ
+1206. commercial — quảng cáo, thương mại, kinh doanh
+1207. compared — so, so sánh, chẳng là
+1208. effort — nỗ lực, công sức, cố gắng
+1209. ended — kết thúc, chấm dứt, cuối cùng
+1210. fan — hâm mộ, quạt, cuồng
+1211. fighting — chiến đấu, đánh, cãi
+1212. imagine — tưởng tượng, hình dung, nổi
+1213. impact — va chạm, tác động, ảnh hưởng
+1214. lack — thiếu, thiếu hụt, sự
+1215. latest — mới đây, tối tân, hiện đại
+1216. learning — học, học hỏi, học tập
+1217. multiple — đa, hàng loạt, nhân cách
+1218. older — già, lớn tuổi, cũ
+1219. operation — chiến dịch, hoạt động, phẫu thuật
+1220. organization — tổ chức, hoạt động, thành viên
+1221. passed — qua đời, trôi, ngất
+1222. pictures — ảnh, hình, chụp
+1223. protect — bảo vệ, để, gia đình
+1224. secret — bí mật, kín, giấu
+1225. senior — cấp, cao cấp, cuối
+1226. spring — xuân, mùa, suối
+1227. sunday — chủ nhật, lễ phục sinh, trừ
+1228. telling — kể, bảo, sự thật
+1229. wear — mặc, đeo, váy
+1230. activities — hoạt động, hành vi, xác nhận
+1231. address — địa chỉ, ip, gửi
+1232. analysis — phân tích, thống kê, hành vi
+1233. anyway — dù sao, đằng, đi nữa
+1234. bought — mua, mua chuộc, tặng
+1235. calls — cuộc gọi, điện, gọi
+1236. choose — chọn, chọn lựa, lựa chọn
+1237. christmas — giáng sinh, connie, an lành
+1238. color — màu, màu sắc, màu da
+1239. commission — hoa hồng, ủy ban, hội đồng
+1240. competition — thi, cạnh tranh, đối thủ
+1241. details — chi tiết, cụ thể, thông tin
+1242. direct — trực tiếp, mệnh lệnh, thẳng
+1243. dream — mơ, giấc, ước mơ
+1244. easily — dễ dàng, dễ, từ bỏ
+1245. finish — hoàn thành, kết thúc, xong
+1246. grand — ngàn, nghìn, vĩ đại
+1247. increased — tăng, gia tăng, tăng cường
+1248. indian — da, ấn, đỏ
+1249. literally — nghĩa đen, nghĩa là, thật sự
+1250. luck — may mắn, chúc, may
+1251. marriage — hôn nhân, kết hôn, đám cưới
+1252. names — tên, đặt, danh sách
+1253. necessary — cần thiết, điều, thật sự
+1254. patients — bệnh nhân, điều trị, chữa
+1255. resources — nguồn lực, tài nguyên, nguồn
+1256. rich — giàu, giàu có, làm giàu
+1257. skin — da, làn, lột
+1258. speaking — nói chuyện, nói, ai
+1259. supposed — lẽ ra, đáng lẽ, làm sao
+1260. sweet — ngọt ngào, dễ thương, ngọt
+1261. thus — luồn, ống, do
+1262. touch — chạm, đụng, động
+1263. yesterday — hôm qua, sáng, vừa
+1264. caught — bắt, bắt gặp, tóm
+1265. closed — đóng cửa, đóng, kín
+1266. congress — quốc hội, đại hội, ứng cử
+1267. damage — thiệt hại, tổn thương, tổn hại
+1268. directly — trực tiếp, thẳng, lệnh
+1269. disease — bệnh, căn bệnh, bệnh tật
+1270. doctor — bác sĩ, sỹ, tiến sĩ
+1271. doubt — nghi ngờ, nghi, chắc chắn
+1272. drink — uống, ly, rượu
+1273. driving — lái xe, lái, dạo
+1274. established — thiết lập, thành lập, lập
+1275. facebook — 
+1276. feels — cảm giác, cảm thấy, cảm
+1277. fish — cá, loài, món
+1278. gay — đồng tính
+1279. germany — 
+1280. glad — mừng, vui, vui mừng
+1281. greater — vĩ đại, cao cả, tốt đẹp
+1282. grow — trưởng thành, mọc, phát triển
+1283. largest — lớn, tập đoàn, hồ
+1284. machine — máy, cỗ, súng máy
+1285. notice — để ý, chú ý, thông báo
+1286. overall — tổng thể, lượt, been
+1287. planning — kế hoạch, định, dự định
+1288. professor — giáo sư, thầy, vị
+1289. programs — chương trình, boxing, tài trợ
+1290. records — hồ sơ, ghi chép, bệnh án
+1291. reports — báo cáo, bản, thông báo
+1292. shown — thể hiện, xuất hiện, lòng
+1293. sit — ngồi, mời, yên
+1294. trip — chuyến, du lịch, công tác
+1295. associated — liên đới, liên quan, hội chứng
+1296. basic — cơ bản, căn bản, nguyên tắc
+1297. captain — thuyền trưởng, đại úy, đội trưởng
+1298. carry — mang, vác, thực hiện
+1299. cars — xe, xe hơi, ô tô
+1300. crime — tội ác, tội phạm, phạm tội
+1301. effective — hiệu quả, hiệu lực, ăn ý
+1302. effects — phụ, tác dụng, hiệu ứng
+1303. explain — giải thích, khó, tại sao
+1304. fully — hoàn toàn, đầy đủ, trưởng thành
+1305. highly — cao, đánh giá, cực kỳ
+1306. holding — cầm, ôm, nắm
+1307. japan — nhật, phản động, nhật lập tức
+1308. laws — luật, luật pháp, luật lệ
+1309. male — nam, đực, nam giới
+1310. mrs — bác, garner, jacobs
+1311. parties — tiệc, tiệc tùng, bữa
+1312. plant — nhà máy, cây, trồng
+1313. reality — thực tế, thực tại, hiện thực
+1314. smith — thợ rèn, perry smith, smith wesson
+1315. spot — chỗ, địa điểm, điểm
+1316. texas — kỵ binh, đông texas, miền
+1317. winter — đông, mùa, tuyết
+1318. worse — tệ, tồi tệ, ngày càng
+1319. advice — khuyên, lời, tư vấn
+1320. agreement — thỏa thuận, thoả thuận, hợp đồng
+1321. award — giải thưởng, giải, trao
+1322. block — chặn, dãy, khu
+1323. broken — gãy, vỡ, hỏng
+1324. caused — gây, nguyên nhân, đau khổ
+1325. challenge — thách thức, thử thách, thách đấu
+1326. characters — nhân vật, kí tự, chữ
+1327. christian — 
+1328. comment — bình luận, nhận xét, miễn
+1329. equipment — thiết bị, dụng cụ, trang thiết bị
+1330. eventually — cuối cùng, rốt cuộc, bắt đầu
+1331. helped — giúp, giúp đỡ, trốn
+1332. holy — thánh, thiêng liêng, nước thánh
+1333. killing — giết, giết chóc, vụ
+1334. lived — sống, hòa bình, chung
+1335. lots — nhiều, vui, đồ
+1336. nation — quốc gia, đất nước, dân tộc
+1337. otherwise — ngược lại, chứng minh, thuyết phục
+1338. peter — nathan, mắc, bẫy
+1339. prices — giá, giá cả, tăng giá
+1340. primary — chính, bầu cử, tiểu học
+1341. purpose — mục đích, cố tình, cố ý
+1342. rates — lãi suất, tăng, tỉ lệ
+1343. responsible — trách nhiệm, chịu, gây
+1344. shop — cửa hàng, tiệm, mua sắm
+1345. showing — khoe, thể hiện, chiếu
+1346. sick — bệnh, ốm, bệnh hoạn
+1347. teacher — giáo viên, thầy, sư
+1348. theory — giả thuyết, lý thuyết, giả thiết
+1349. uses — dùng, sử dụng, lợi dụng
+1350. william — william shatner, holden, cãi lộn
+1351. agency — cơ quan, môi giới, đại lý
+1352. avoid — tránh, tránh mặt, trốn
+1353. camera — máy, quay, máy ảnh
+1354. catch — bắt, kịp, tóm
+1355. cell — giam, xà lim, tế bào
+1356. coast — bờ, biển, khơi
+1357. comments — bình luận, nhận xét, ý kiến
+1358. drug — ma túy, thuốc, buôn
+1359. economy — kinh tế, nền, suy thoái
+1360. environment — môi trường, kiểm soát, thay đổi
+1361. executive — điều hành, giám đốc, cán bộ
+1362. foot — chân, đặt chân, bàn chân
+1363. hall — sảnh, hành lang, đại sảnh
+1364. mass — hàng loạt, khối lượng, khối
+1365. meaning — ý nghĩa, nghĩa, nghĩa là
+1366. mission — nhiệm vụ, sứ mệnh, hoàn thành
+1367. nine — chín, mười, bảy
+1368. officers — sĩ quan, nhân viên, chỉ huy
+1369. operations — hoạt động, chiến dịch, điều hành
+1370. politics — chính trị, chính trị gia, quan điểm
+1371. pop — bật, nhạc, ghé
+1372. produced — sản xuất, sản sinh, mồi
+1373. ran — chạy, điều hành, trốn
+1374. saturday — 
+1375. status — tình trạng, tình hình, địa vị
+1376. therefore — vì vậy, do, vì thế
+1377. trial — xét xử, phiên tòa, thử nghiệm
+1378. truly — thật sự, thực sự, lòng
+1379. weather — thời tiết, dự báo, mưa
+1380. activity — hoạt động, địa chấn, núi lửa
+1381. app — ứng dụng, phần mềm, cô dâu
+1382. application — đơn, xin, ứng dụng
+1383. claims — tuyên bố, khẳng định, khai
+1384. coffee — cà phê, phê, cà
+1385. complex — phức tạp, phức hợp, tổ hợp
+1386. condition — tình trạng, điều kiện, nguy kịch
+1387. division — bộ phận, sư, đoàn
+1388. evening — tối, buổi, chào
+1389. flight — bay, chuyến, tiếp viên
+1390. freedom — tự do, thoát, quyền
+1391. google — 
+1392. heat — nóng, nhiệt, nhiệt độ
+1393. highest — cao, trả giá, tối cao
+1394. interview — phỏng vấn, thẩm vấn, cuộc
+1395. library — thư viện, quyển, thẻ
+1396. located — định vị, xác định, vị trí
+1397. location — vị trí, địa điểm, địa chỉ
+1398. murder — án mạng, mưu sát, sát hại
+1399. obama — 
+1400. offered — đề nghị, cung cấp, tặng
+1401. putting — đặt, nguy hiểm, bỏ
+1402. queen — nữ hoàng, hoàng hậu
+1403. seconds — giây, vòng
+1404. showed — xuất hiện, bức, ảnh
+1405. sitting — ngồi, ghế, cạnh
+1406. standing — đứng, cạnh, sẵn sàng
+1407. stars — ngôi sao, ngắm, hành tinh
+1408. walking — dạo, bước đi, đi lại
+1409. accept — chấp nhận, chấp nhận lời, đồng ý
+1410. actual — thực tế, thật sự, thực sự
+1411. appear — xuất hiện, có vẻ, vẻ
+1412. attempt — nỗ lực, ám sát, nhằm
+1413. broke — chia tay, gãy, vỡ
+1414. channel — kênh, eo biển, tần số
+1415. distance — khoảng cách, xa, dài
+1416. eating — ăn, ăn uống, thịt
+1417. exchange — trao đổi, đổi, giao dịch
+1418. fat — béo, mập, mỡ
+1419. fell — ngã, rơi, té
+1420. finding — tìm kiếm, khó khăn, i
+1421. glass — ly, kính, thủy tinh
+1422. learned — học, bài học, vừa
+1423. losing — mất, thua, mất trí
+1424. mobile — di động, lưu động
+1425. northern — bắc, phương, phía
+1426. opened — mở, mở cửa, mở mắt
+1427. placed — đặt, niềm, dưới
+1428. powerful — mạnh, quyền lực, mạnh mẽ
+1429. prior — trước đây, trước, mối
+1430. protection — bảo vệ, bảo kê, bảo hộ
+1431. reached — bạn, đạt, vươn
+1432. receive — nhận, tiếp, sắp
+1433. religious — tôn giáo, đạo, sùng đạo
+1434. ride — cưỡi, cỡi, quá giang
+1435. robert — 
+1436. royal — hoàng gia, hoàng tộc
+1437. screen — màn hình, độc tính, màn ảnh
+1438. serve — phục vụ, phụng sự, phục tùng
+1439. signed — ký, kí, ký tên
+1440. slow — chậm, chậm chạp, chậm rãi
+1441. species — loài, tuyệt chủng, sinh vật
+1442. speech — phát biểu, bài, diễn văn
+1443. traffic — giao thông, tắc, xe cộ
+1444. tree — cây, gốc, thông
+1445. types — loại, kiểu, dạng
+1446. vs — kiện, trận đấu, dân
+1447. wearing — mặc, đeo, váy
+1448. whom — bởi, ai, cho
+1449. wonderful — tuyệt vời, tuyệt, kỳ diệu
+1450. agreed — đồng ý, thỏa thuận, thống nhất
+1451. airport — sân bay, phi, trường
+1452. animals — động vật, thú, thú vật
+1453. appears — có vẻ, xuất hiện, dường như
+1454. begin — bắt đầu, bắt đầu từ, sắp
+1455. benefits — lợi ích, lợi, trợ cấp
+1456. bottom — đáy, dưới, tận
+1457. cities — thành phố, phá hủy, xây
+1458. demand — yêu cầu, nhu cầu, đòi
+1459. engine — động cơ, máy, tắt máy
+1460. everybody — mọi, đều, tất cả
+1461. famous — nổi tiếng, danh tiếng, trở nên
+1462. ideas — ý tưởng, ý kiến, ý nghĩ
+1463. investment — đầu tư, khoản, ngân hàng đầu tư
+1464. keeping — giữ, giấu, duy nhất
+1465. lie — nói dối, dối trá, nằm xuống
+1466. notes — ghi chú, ghi chép, sổ
+1467. partner — cộng sự, đối tác, đồng nghiệp
+1468. plays — chơi, kịch, vở
+1469. raised — nuôi, dạy, nuôi nấng
+1470. runs — điều hành, chảy, chạy
+1471. sad — buồn, buồn bã, đau buồn
+1472. solution — giải pháp, biện pháp, giải quyết
+1473. songs — bài, hát, ca khúc
+1474. sources — nguồn, tin cậy, tin
+1475. southern — nam, miền, phương
+1476. square — quảng trường, vuông, mét vuông
+1477. stopped — dừng, ngừng, ngăn
+1478. structure — cấu trúc, phân tử, kết cấu
+1479. thomas — thomas hewitt, viper, mặt nạ
+1480. traditional — truyền thống, naples, thường lệ
+1481. twice — gấp, lần, đôi
+1482. wind — gió, thổi, ngọn
+1483. worry — lo, lo lắng, bận tâm
+1484. americans — mỹ, alfredo garcia, con rối
+1485. appeared — xuất hiện, hiện, đột nhiên
+1486. becomes — trở thành, trở nên, càng
+1487. brand — thương hiệu, đóng dấu, nhãn hiệu
+1488. bus — xe buýt, trạm, đón
+1489. cent — xu, phần trăm, hòng
+1490. chicago — illinois, đám tang, geary
+1491. count — đếm, tính, bạch cầu
+1492. covered — che, bao phủ, phủ
+1493. critical — nguy kịch, quan trọng, then chốt
+1494. digital — kỹ thuật số, kĩ thuật số, điện tử
+1495. forced — buộc, ép, ép buộc
+1496. fourth — thứ tư, bốn, hiệp
+1497. fresh — tươi, trong lành, khởi đầu
+1498. lake — hồ, bờ, bơi
+1499. mental — tâm thần, tinh thần, thần kinh
+1500. mentioned — nhắc, đề cập, hề
+1501. missed — lỡ, nhớ, sót
+1502. mostly — chủ yếu, hầu hết, phần lớn
+1503. mouth — miệng, mồm, mở miệng
+1504. owner — chủ, chủ nhân, sở hữu
+1505. photos — ảnh, chụp, hình
+1506. previously — xác nhận, kẻ âm mưu, trước đây
+1507. realize — nhận, thế nào, hiểu
+1508. remain — mãi, yên, tiếp tục
+1509. scale — quy mô, thang, cân
+1510. score — ghi điểm, điểm, ghi
+1511. separate — tách, riêng biệt, tách biệt
+1512. smart — thông minh, khôn, khôn ngoan
+1513. starts — bắt đầu, bắt đầu từ, rồi
+1514. surface — bề mặt, mặt đất, nổi
+1515. throw — ném, vứt, quăng
+1516. tom — trộm, đái, tánh
+1517. totally — hoàn toàn, ổn, tớ
+1518. twitter — 
+1519. views — quan điểm, cấp tiến, lượt
+1520. wedding — đám cưới, cưới, lễ
+1521. acting — hành động, cư xử, diễn xuất
+1522. actions — hành động, việc làm, hành vi
+1523. african — 
+1524. arms — vòng tay, cánh tay, vũ khí
+1525. benefit — lợi ích, lợi, hưởng
+1526. budget — ngân sách, quỹ, ngân
+1527. click — bấm, nhấp, bửa
+1528. estate — bất động sản, tài sản, địa ốc
+1529. failed — thất bại, thất vọng, trượt
+1530. faith — niềm, đức tin, tin
+1531. fashion — thời trang, trật tự, mốt
+1532. feature — tính năng, đặc trưng, điểm
+1533. fund — quỹ, quỹ đen, tài trợ
+1534. generation — thế hệ, truyền, sang
+1535. hearing — điều trần, phiên, phiên tòa
+1536. hill — đồi, ngọn, đỉnh
+1537. jack — kích, bồi, j
+1538. larger — lớn, rộng, to lớn
+1539. louis — đồng, thưa, quý vị
+1540. metal — kim loại, sắt, dò
+1541. mid — giữa, độ, chuẩn uý
+1542. paris — abbott, ngả, treadstone
+1543. profile — hồ sơ, đặc điểm, phân tích
+1544. pull — kéo, rút, lôi
+1545. push — đẩy, rặn, ép
+1546. returned — trở, trở lại, trả
+1547. rose — hồng, hoa hồng, bông
+1548. seat — ngồi, ghế, mời
+1549. seemed — vẻ, dường như, có vẻ
+1550. sexual — tình dục, quấy rối, dâm
+1551. target — mục tiêu, nhắm, đối tượng
+1552. understanding — hiểu biết, thông cảm, thấu hiểu
+1553. village — làng, ngôi, thôn
+1554. agent — đặc vụ, điệp viên, đại lý
+1555. animal — thú, động vật, vật
+1556. apply — áp dụng, đơn, nộp
+1557. authority — thẩm quyền, quyền, quyền hạn
+1558. basis — cơ sở, nền tảng, cơ bản
+1559. becoming — trở thành, trở nên, ngày càng
+1560. chris — ohh, gerald, vs
+1561. draw — vẽ, rút, dụ
+1562. dude — gã, ạ, thằng
+1563. employees — nhân viên, làm công, công nhân
+1564. enter — nhập, tiến, bước
+1565. ex — cũ, bồ, meam
+1566. follows — bám, theo dõi, theo
+1567. foundation — nền tảng, nền móng, quỹ
+1568. gain — lợi, lợi ích, đạt
+1569. http — 
+1570. individuals — cá nhân, cá thể, một số
+1571. japanese — nhật, võ sĩ, nhật kia
+1572. leaders — lãnh đạo, thủ lĩnh, dẫn đầu
+1573. memory — ký ức, trí nhớ, kí ức
+1574. prime — nguyên tố, hàng đầu, thủ tướng
+1575. projects — dự án, southie, khu
+1576. ring — nhẫn, nhẫn cưới, chiếc
+1577. rise — dậy, trỗi, nổi dậy
+1578. selling — bán, bán đứng, ma túy
+1579. served — phục vụ, bữa, phụng sự
+1580. silver — bạc, đồng bạc, lượng
+1581. soul — linh hồn, tâm hồn, hồn
+1582. spread — lan, tản, rộng
+1583. supply — cung cấp, nguồn, tiếp tế
+1584. waste — phí, lãng phí, phí phạm
+1585. weird — lạ, kỳ lạ, kì lạ
+1586. adult — người lớn, trưởng thành, cư xử
+1587. apparently — rõ ràng, hình như, dường như
+1588. artist — nghệ sĩ, họa sĩ, nghệ sỹ
+1589. chairman — chủ tịch, dự trữ, chủ tọa
+1590. edition — phiên bản, ấn bản, giới hạn
+1591. engineering — kỹ thuật, kỹ sư, cơ khí
+1592. grade — lớp, hồi, tiểu học
+1593. happening — xảy, diễn, chuyện
+1594. healthy — khỏe mạnh, lành mạnh, khoẻ mạnh
+1595. institute — viện, tiến bộ, devilers
+1596. method — phương pháp, phương thức, cách thức
+1597. mike — micro, mic, micrô
+1598. monday — 
+1599. nations — quốc gia, hòa bình, một cách
+1600. obviously — rõ ràng, hiển nhiên, chắc chắn
+1601. option — lựa chọn, phương án, chọn lựa
+1602. prison — tù, nhà tù, ngồi tù
+1603. provides — cung cấp, chu cấp, dịch vụ
+1604. remains — sót, thi thể, xác
+1605. senate — nghị viện, thượng nghị viện, thượng
+1606. smaller — nhỏ, ngày càng, nhỏ con
+1607. somebody — ai, kẻ, giúp
+1608. stone — đá, viên, hòn
+1609. strength — sức mạnh, sức, sức lực
+1610. users — dùng, tài khoản, ảo
+1611. wild — hoang dã, hoang, hoang dại
+1612. window — cửa sổ, kính, vỡ
+1613. winner — chiến thắng, thắng, kẻ thắng
+1614. arrived — future, the, has
+1615. bag — túi, túi xách, đựng
+1616. bet — cá, cược, cá cược
+1617. camp — trại, cắm, doanh trại
+1618. cast — trục xuất, bột, quăng
+1619. christ — bản nhạc, đức, lạy đức chúa
+1620. continues — tiếp tục, tiếp diễn, cuộc
+1621. correct — chính xác, đúng vậy, sửa
+1622. dangerous — nguy hiểm, nguy hiểm nhất, nguy hiểm đấy
+1623. ed — giáo dục, giới tính, nướng
+1624. extremely — cực kỳ, vô cùng, cực kì
+1625. firm — công ty, hãng, luật
+1626. greatest — vĩ đại, thời đại, tuyệt vời
+1627. handle — xử lý, giải quyết, xử lí
+1628. improve — cải thiện, tiến bộ, cải tiến
+1629. indeed — rõ, đúng vậy, thật sự
+1630. leaves — lá, rời, cây
+1631. movies — phim, phim ảnh, rạp
+1632. negative — âm tính, tiêu cực, âm
+1633. prevent — ngăn chặn, ngăn, ngăn cản
+1634. removed — loại bỏ, tháo, gỡ
+1635. richard — 
+1636. spirit — tinh thần, linh hồn, linh
+1637. television — truyền hình, tv, tivi
+1638. till — đợi, sáng, chờ
+1639. trouble — rắc rối, khó khăn, gây
+1640. usa — reynolds, gắt gao, từ chức
+1641. videos — video, phim, đoạn
+1642. advantage — lợi thế, lợi dụng, tận dụng
+1643. apart — xé xác, tách, sụp đổ
+1644. aware — nhận thức, ý thức, biết điều
+1645. cat — mèo, smelly
+1646. customers — khách hàng, khách, vị
+1647. decide — quyết định, quyền, chọn
+1648. dinner — tối, bữa, ăn
+1649. dollars — đô la, la, đôla
+1650. eastern — đông, miền, đông âu
+1651. fifth — hiệp, sáu, tầng
+1652. function — chức năng, hoạt động, suy giảm
+1653. gift — quà, món, tặng
+1654. helping — giúp, giúp đỡ, cứu
+1655. herself — tự tử, tự sát, bản thân
+1656. impossible — không thể, bất khả thi, không tưởng
+1657. influence — ảnh hưởng, tầm, tác động
+1658. items — vật dụng, mặt hàng, đồ vật
+1659. joe — joe west, snart, barry
+1660. los — tây ban, nha, los angeles
+1661. marketing — tiếp thị, bộ phận, quảng bá
+1662. mary — 
+1663. materials — vật liệu, nguyên liệu, tài liệu
+1664. nor — cả, hề, phép
+1665. produce — sản xuất, sản phẩm, khí
+1666. progress — tiến triển, tiến bộ, tiến trình
+1667. proud — tự hào, hãnh diện, kiêu hãnh
+1668. require — yêu cầu, đòi hỏi, trợ giúp
+1669. shooting — bắn, nổ súng, xả
+1670. shut — im, câm, đóng cửa
+1671. standards — tiêu chuẩn, chuẩn mực, chuẩn
+1672. tells — mách bảo, kể, bảo
+1673. thinks — tưởng, đều, bé
+1674. van — xe tải, xe, chiếc
+1675. wood — gỗ, củi, chẻ
+1676. background — lý lịch, nền, lai lịch
+1677. birth — sinh, khai sinh, ra đời
+1678. bridge — cầu, cây, cầu nối
+1679. carried — thi hành, mang, thực hiện
+1680. charles — 
+1681. classes — lớp, lớp học, tiết
+1682. completed — hoàn thành, hoàn tất, xong
+1683. concept — khái niệm, ý niệm, ý tưởng
+1684. copy — bản sao, rõ, bản
+1685. dear — thân mến, thân yêu, yêu quý
+1686. dogs — chó, xúc xích, lũ
+1687. drugs — thuốc, ma túy, thuốc phiện
+1688. efforts — nỗ lực, lực, nổ
+1689. garden — vườn, khu, làm vườn
+1690. host — vật chủ, chủ, chủ thể
+1691. housing — nhà đất, trái phiếu, cư trú
+1692. inc — 
+1693. israel — 
+1694. journal — nhật ký, nhật kí, tạp chí
+1695. labor — lao động, khổ, sinh
+1696. leadership — lãnh đạo, ban, chỉ huy
+1697. length — dài, chiều, độ
+1698. lucky — may mắn, may, hôm nay
+1699. neither — cả, hề, chẳng
+1700. onto — bám, tàu, giữ
+1701. patient — bệnh nhân, kiên nhẫn, bệnh
+1702. possibly — làm sao, khả năng, tưởng tượng
+1703. prove — chứng minh, chứng tỏ, sai
+1704. rare — hiếm, hiếm hoi, quý hiếm
+1705. setting — thiết lập, gài, dựng
+1706. skills — kỹ năng, kĩ năng, airbending
+1707. software — phần mềm, khuôn mặt, nhận diện
+1708. thousands — ngàn, hàng, nghìn
+1709. tough — khó khăn, cứng rắn, khó
+1710. units — đơn vị, carbon, lực lượng
+1711. ad — quảng cáo, đăng, mẩu
+1712. alive — sống, sống sót, mạng
+1713. apple — táo, quả, trái
+1714. balance — cân bằng, thăng bằng, cán cân
+1715. birthday — sinh nhật, ngày sinh nhật, chúc mừng
+1716. bitch — khốn, đĩ, điếm
+1717. boss — sếp, chủ, đại ca
+1718. cards — bài, lá, thiệp
+1719. changing — thay đổi, đổi, biến đổi
+1720. connection — liên hệ, kết nối, mối
+1721. dress — váy, áo, ăn mặc
+1722. easier — dễ dàng, dễ, dễ chịu
+1723. fellow — đồng nghiệp, anh chàng, gã
+1724. florida — tệ nạn, cưỡng chế, tây bắc
+1725. horse — ngựa, cỡi, cưỡi
+1726. knowing — thế nào, hiểu, cách
+1727. liked — thích, tưởng, thực sự
+1728. magic — phép thuật, ma thuật, ảo thuật
+1729. managed — xoay xở, xoay, sở
+1730. map — bản đồ, tấm, vẽ
+1731. net — lưới, mạng lưới, giăng
+1732. owned — sở hữu, làm chủ, thuộc
+1733. request — yêu cầu, thỉnh cầu, đề nghị
+1734. stick — gậy, que, bám
+1735. turns — hóa, phiên, thay
+1736. vehicle — xe, phương tiện, chiếc
+1737. volume — âm lượng, số lượng, khối lượng
+1738. wake — dậy, đánh thức, tỉnh
+1739. aid — viện trợ, trợ giúp, sơ cứu
+1740. beauty — đẹp, sắc đẹp, vẻ
+1741. believed — tin, tin tưởng, luôn
+1742. billion — tỉ, tỷ, một tỷ
+1743. busy — bận, bận rộn, bận bịu
+1744. buying — mua, đãi, mời
+1745. cells — tế bào, hồng cầu, giam
+1746. concerned — lo lắng, lo ngại, quan tâm
+1747. conversation — trò chuyện, cuộc, nói chuyện
+1748. corner — góc, phố, đằng
+1749. criminal — tội phạm, tiền án, hình sự
+1750. cultural — văn hóa, văn hoá, di sản
+1751. develop — phát triển, riêng, loại
+1752. driver — tài xế, lái xe, tay đua
+1753. ends — kết thúc, chấm dứt, cuối cùng
+1754. existing — tồn tại, hiện tại, hiện hữu
+1755. farm — nông trại, trang trại, nông dân
+1756. file — hồ sơ, tài liệu, tập tin
+1757. fix — sửa, sửa chữa, chữa
+1758. fly — bay, ruồi, lái
+1759. frank — thẳng thắn, nói thẳng, thành thật
+1760. guide — hướng dẫn, dẫn, hướng dẫn viên
+1761. images — hình ảnh, hình, ảnh
+1762. investigation — điều tra, cuộc, tiến hành
+1763. mexico — new mexico, allende
+1764. operating — hoạt động, mổ, điều hành
+1765. paying — trả, lương, trả giá
+1766. presented — trình bày, giới thiệu, trình
+1767. raise — nuôi, tăng, giơ
+1768. responsibility — trách nhiệm, chịu, gánh
+1769. roll — lăn, cuộn, rock
+1770. slightly — hơi, nhẹ, một chút
+1771. suggest — đề nghị, khuyên, gợi ý
+1772. surprise — ngạc nhiên, bất ngờ, yếu tố
+1773. technical — kỹ thuật, kĩ thuật, chuyên môn
+1774. thoughts — suy nghĩ, ý nghĩ, tư tưởng
+1775. treat — đối xử, chữa, điều trị
+1776. unique — độc đáo, độc nhất, nhị
+1777. variety — đa dạng, phong phú, loạt
+1778. violence — bạo lực, vũ lực, hành động
+1779. weapons — vũ khí, hạt nhân, bỏ
+1780. yours — của, thuộc, còn
+1781. youth — tuổi trẻ, thanh niên, thiếu niên
+1782. appreciate — cảm kích, đánh giá, biết ơn
+1783. bigger — lớn, to, bự
+1784. breaking — chia tay, đột nhập, vỡ
+1785. discovered — phát hiện, khám phá, airbender
+1786. dont — xuống nước, tội nghiệp, anh chàng
+1787. dry — khô, khô ráo, cạn
+1788. edge — rìa, vực, mép
+1789. evil — ác, xấu xa, quỷ
+1790. excited — phấn khích, hào hứng, háo hức
+1791. forever — mãi mãi, mãi, vĩnh viễn
+1792. funds — quỹ, ngân, khoản
+1793. helps — giúp, có ích, giúp ích
+1794. henry — henry allen, hoàng hậu, giày
+1795. injury — chấn thương, bị thương, vết thương
+1796. iron — sắt, thép
+1797. lovely — đáng, yêu, dễ thương
+1798. mad — điên, giận, nổi giận
+1799. magazine — tạp chí, bìa, tờ
+1800. martin — james martin, marin, dãi
+1801. models — người mẫu, mô hình, mẫu
+1802. offers — đề nghị, từ chối, mời
+1803. ordered — ra lệnh, lệnh, đặt hàng
+1804. parliament — nghị viện, of, chaucer
+1805. prepared — chuẩn bị, sẵn sàng, sẵn
+1806. reference — tham khảo, ám chỉ, tham chiếu
+1807. religion — tôn giáo, đạo, tín ngưỡng
+1808. sites — địa điểm, trang, trang web
+1809. somewhere — đâu đó, đâu đây, quanh
+1810. stated — tuyên bố, khẳng định, r
+1811. strategy — chiến lược, chiến thuật, bàn
+1812. teachers — giáo viên, thầy, thầy giáo
+1813. web — trang web, mạng nhện, nhện
+1814. wine — rượu, rượu vang, vang
+1815. accounts — tài khoản, kế toán, nước ngoài
+1816. angeles — michigan, xăng los, ở
+1817. arm — cánh tay, tay, gãy
+1818. audience — khán giả, thính giả, yết kiến
+1819. bay — vịnh, khoang, y tế
+1820. blog — trang, đăng, trên
+1821. closer — gần, gần gũi, tiến
+1822. core — lõi, cốt lõi, tâm
+1823. democratic — dân chủ, hiệp ước, âm mưu
+1824. description — mô tả, miêu tả, nhận dạng
+1825. dropped — rơi, rớt, đánh rơi
+1826. excellent — tuyệt vời, xuất sắc, tuyệt hảo
+1827. exist — tồn tại, hiện hữu, hề
+1828. figures — con số, hình vẽ, số liệu
+1829. forms — dạng, mẫu đơn, hình thức
+1830. guard — gác, canh, bảo vệ
+1831. honest — thành thật, trung thực, lương thiện
+1832. issued — ban hành, cấp, phát hành
+1833. joined — gia nhập, tham gia, kết hợp
+1834. jones — 
+1835. lee — tướng, ch, gió
+1836. lies — dối trá, nói dối, nằm
+1837. likes — thích, chơi, đều
+1838. medicine — thuốc, y học, thuốc men
+1839. mention — nhắc, đề cập, chưa
+1840. mountain — núi, ngọn, dãy
+1841. nuclear — hạt nhân, nguyên tử, tàu ngầm
+1842. orders — lệnh, mệnh lệnh, ra lệnh
+1843. port — cảng, bến, aden
+1844. presence — hiện diện, có mặt, sự
+1845. reaction — phản ứng, dây chuyền, chất
+1846. reduce — giảm, giảm thiểu, bớt
+1847. shoot — bắn, tao, súng
+1848. sides — phe, bao vây, đổi
+1849. solid — đặc, rắn, vững chắc
+1850. spanish — tây ban, nha, tiếng
+1851. sport — thể thao, môn, hiền
+1852. steps — bước, bậc, thang
+1853. stress — căng thẳng, chấn thương, áp lực
+1854. taste — nếm, mùi vị, hương vị
+1855. tea — trà, pha, tách
+1856. victory — chiến thắng, thắng lợi, vinh quang
+1857. afternoon — chiều, nay, trưa
+1858. assistant — trợ lý, phụ tá, trợ lí
+1859. britain — 
+1860. citizens — công dân, dân, mối
+1861. classic — cổ điển, kinh điển, điển hình
+1862. clothes — quần áo, cởi, mặc đồ
+1863. decisions — quyết định, khó khăn, dựa
+1864. electric — điện, ghế điện, điện tử
+1865. emergency — khẩn cấp, cấp cứu, trường hợp
+1866. entered — không phận, nhập, bước
+1867. entirely — hoàn toàn, phụ thuộc, hẳn
+1868. facts — sự thật, dữ kiện, thực tế
+1869. failure — thất bại, suy, hỏng
+1870. festival — lễ hội, shi, tiệc
+1871. flat — căn hộ, phẳng, lốp
+1872. fuel — nhiên liệu, xăng, cạn
+1873. harry — thầy, vòi vĩnh, slytherin
+1874. hello — chào, xin, chào hỏi
+1875. houses — ngôi, nhà cửa, gia tộc
+1876. ill — bệnh, ốm, nói xấu
+1877. initial — ban đầu, sơ bộ, cú
+1878. introduced — giới thiệu, chính thức, quen
+1879. johnson — tảng, tỉa, james bond
+1880. kick — đá, đá đít, cú
+1881. links — liên kết, mối, đường dẫn
+1882. mail — thư, thư từ, bưu điện
+1883. massive — khổng lồ, quy mô, xuất huyết
+1884. matters — quan trọng, vấn đề, ý nghĩa
+1885. pair — cặp, một đôi, đôi
+1886. picked — chọn, nhặt, đón
+1887. pieces — mảnh, ghép, miếng
+1888. plane — máy bay, chiếc, hạ cánh
+1889. plenty — đống, đầy, còn
+1890. prince — hoàng tử, thái tử, ếch
+1891. proper — thích hợp, thích đáng, chôn cất
+1892. providing — cung cấp, điều kiện, nuôi
+1893. quarter — xu, tư, quý
+1894. regional — khu vực, vùng, địa phương
+1895. scott — 
+1896. session — phiên, họp, điều trị
+1897. shape — hình dạng, hình dáng, định hình
+1898. sky — bầu trời, trời, rơi
+1899. teaching — dạy, dạy học, giảng dạy
+1900. toward — nghiêng, tiến, thẳng
+1901. transfer — chuyển, thuyên chuyển, chuyển nhượng
+1902. upper — khí quyển, thô kệch, tầng lớp
+1903. useful — hữu dụng, có ích, hữu ích
+1904. valley — thung lũng, thung lũng lớn, lớn
+1905. watched — theo dõi, chứng kiến, quan sát
+1906. willing — sẵn sàng, sẵn lòng, chấp nhận
+1907. windows — cửa sổ, walls, cửa kính
+1908. zone — vùng, khu vực, chiến sự
+1909. accident — tai nạn, xe hơi, tình cờ
+1910. advanced — tiên tiến, tiến bộ, nâng
+1911. alternative — thay thế, lựa chọn, một cách
+1912. anywhere — bất kì, bất cứ, bất kỳ
+1913. articles — bài, báo, luận tội
+1914. awards — giải thưởng, trao, giải
+1915. bear — gấu, chịu đựng, bông
+1916. boat — thuyền, tàu, chiếc
+1917. bringing — mang, đem, cám ơn
+1918. capacity — khả năng, công suất, năng lực
+1919. cheap — rẻ, rẻ tiền, giá
+1920. climate — khí hậu, biến đổi, thô
+1921. communities — cộng đồng, hưu trí, tôn giáo
+1922. discussion — thảo luận, tranh luận, bàn bạc
+1923. drinking — uống, rượu, nhậu
+1924. duty — nhiệm vụ, nghĩa vụ, bổn phận
+1925. fantastic — tuyệt vời, tuyệt, xẩy
+1926. feelings — cảm xúc, tình cảm, cảm giác
+1927. flying — bay, lái, chim
+1928. governor — thống đốc, toàn quyền, chạy đua
+1929. hundred — trăm, mươi
+1930. industrial — công nghiệp, gián điệp, khu
+1931. joint — khớp, điếu, tụ điểm
+1932. mix — trộn, kết hợp, hỗn hợp
+1933. museum — bảo tàng, viện, mỹ thuật
+1934. options — lựa chọn, phương án, chọn lựa
+1935. path — đường, đường mòn, lối
+1936. plants — thực vật, cây, cây cối
+1937. policies — chính sách, chủ trương, thuộc địa
+1938. promise — hứa, thề, xin
+1939. proposed — cầu hôn, đề xuất, ngỏ
+1940. purchase — mua, mua bán, tín dụng
+1941. rain — mưa, trời, cơn
+1942. remove — loại bỏ, tháo, gỡ
+1943. signs — dấu hiệu, bảng hiệu, ký
+1944. spending — dành, tiêu, đời
+1945. steel — thép, sắt, gia cố
+1946. steve — 
+1947. supporting — ủng hộ, hỗ trợ, phụ
+1948. terrible — khủng khiếp, kinh khủng, tồi tệ
+1949. tired — mệt, mệt mỏi, chán
+1950. treated — đối xử, điều trị, chữa trị
+1951. turning — rẽ, xoay, sang
+1952. vice — phó tổng thống, phó, tệ nạn
+1953. warm — ấm, ấm áp, sưởi
+1954. afraid — sợ, e, sợ hãi
+1955. arts — nghệ thuật, thuật, võ công
+1956. beer — bia, lon, cốc
+1957. border — biên giới, vượt biên, vượt biên giới
+1958. canadian — canada, dân, dẹp
+1959. command — chỉ huy, lệnh, ra lệnh
+1960. crew — đoàn, hành đoàn, phi
+1961. crowd — đông, đám, khán giả
+1962. dating — hẹn hò, hẹn, tuổi
+1963. dick — cu, thám tử, trym
+1964. elements — nguyên tố, yếu tố, chặn
+1965. enemy — kẻ thù, địch, chung
+1966. ensure — đảm bảo, bảo đảm, tồn tại
+1967. environmental — môi trường, do, nguyên nhân
+1968. filled — đầy, điền, lấp
+1969. fixed — sửa, cố định, chữa
+1970. forest — rừng, khu, r
+1971. intelligence — tình báo, thông minh, trí
+1972. intended — ý định, dự định, chơi chữ
+1973. labour — lao động, đẻ, công lao động
+1974. limit — giới hạn, hạn chế, tối đa
+1975. moon — mặt trăng, trăng, trăng tròn
+1976. ocean — đại dương, biển, đáy
+1977. powers — sức mạnh, năng lực, quyền năng
+1978. profit — lợi nhuận, lợi, kiếm
+1979. proof — bằng chứng, chứng minh, chứng cứ
+1980. republican — cộng, hòa, tham nhũng
+1981. soldiers — lính, binh lính, binh sĩ
+1982. suit — bộ, đồ, vest
+1983. wins — thắng, chiến thắng, lá
+1984. appearance — xuất hiện, bề ngoài, ngoại hình
+1985. asian — 
+1986. attorney — luật sư, tổng, chưởng lý
+1987. banks — ngân hàng, bờ, băng
+1988. behavior — hành vi, cư xử, thái độ
+1989. ben — 
+1990. bodies — xác, xác chết, thi thể
+1991. brothers — anh em, đệ, huynh
+1992. buildings — tòa, toà, cao ốc
+1993. chair — ghế, ghế điện, trói
+1994. creating — tạo, chế tạo, xây dựng
+1995. debt — nợ, nợ nần, món
+1996. domestic — nội địa, bạo hành, đối nội
+1997. expensive — đắt, mắc, đắt đỏ
+1998. grew — lớn, trưởng thành, mọc
+1999. historical — lịch sử, di tích, thần thoại
+2000. homes — nhà cửa, ngôi, căn
+2001. honestly — thành thật, trung thực, thật tình
+2002. honor — danh dự, vinh dự, vinh danh
+2003. im — n, cháu, còn
+2004. jump — nhảy, cú, chạy
+2005. launch — phóng, khởi động, phóng hỏa
+2006. listed — liệt kê, ghi, danh sách
+2007. minimum — tối thiểu, mức, ít nhất
+2008. native — bản xứ, bản địa, thổ dân
+2009. noted — ghi nhận, lưu ý, phản đối
+2010. originally — ban đầu, gốc, vốn
+2011. planned — kế hoạch, dự định, sắp đặt
+2012. pm — chiều, hiệu lực
+2013. ray — tia, tia gamma, nắng
+2014. sets — lặn, dấu, bộ
+2015. suddenly — đột nhiên, đột ngột, bỗng nhiên
+2016. supreme — tối cao, tối thượng, chí
+2017. survey — khảo sát, quan sát, trung tâm
+2018. tech — công nghệ, kỹ thuật, kỹ thuật viên
+2019. trees — cây, cây cối, mọc
+2020. update — cập nhật, tình hình, bản
+2021. user — dùng, đăng nhập, mới mẻ
+2022. writer — nhà văn, tác giả, nhà báo
+2023. yellow — vàng, màu, đèn vàng
+2024. younger — trẻ, phiên bản, hồi
+2025. ancient — cổ đại, cổ xưa, phi hành gia
+2026. attacks — tấn công, cơn, đau
+2027. charges — cáo buộc, kiện, buộc tội
+2028. combined — cộng, kết hợp, gộp
+2029. communication — liên lạc, giao tiếp, kết nối
+2030. connected — kết nối, liên quan, liên hệ
+2031. contains — chứa, chứa đựng, chất
+2032. download — tải, tập tin, bộ nhớ
+2033. email — mail, điện tử, jackie
+2034. ending — kết thúc, kết, có hậu
+2035. exercise — tập thể dục, bài tập, thể dục
+2036. express — bày tỏ, thể hiện, diễn tả
+2037. flow — chảy, dòng chảy, lưu thông
+2038. formed — hình thành, thành lập, mặt trời
+2039. girlfriend — gái, bạn, bồ
+2040. hero — anh hùng, người hùng, chiến tranh
+2041. illegal — bất hợp pháp, phạm pháp, phi pháp
+2042. increasing — tăng, ngày càng, gia tăng
+2043. joke — đùa, trò đùa, giỡn
+2044. loan — vay, khoản, mượn
+2045. methods — phương pháp, phương thức, cách thức
+2046. officials — quan chức, viên chức, quan
+2047. performed — thực hiện, khám nghiệm, tử thi
+2048. planet — hành tinh, trái đất
+2049. relationships — quan hệ, mối, tình cảm
+2050. restaurant — nhà hàng, cửa hàng, quán
+2051. scotland — 
+2052. selected — chọn, lựa chọn, tuyển chọn
+2053. shared — chia sẻ, chia, chung
+2054. shopping — mua sắm, mua, chợ
+2055. soft — mềm, mềm mại, mềm yếu
+2056. stuck — kẹt, mắc kẹt, dính
+2057. sugar — đường, đường huyết, muỗng
+2058. suggested — đề nghị, gợi ý, đề xuất
+2059. supported — ủng hộ, hỗ trợ, cụ
+2060. surprised — ngạc nhiên, bất ngờ, hơi
+2061. taught — dạy, bài học, ai
+2062. transport — vận chuyển, phương tiện, dịch chuyển
+2063. accepted — chấp nhận, lời, chấp thuận
+2064. adding — thêm, cộng, toàn bộ
+2065. affairs — nội bộ, can thiệp, ngoại tình
+2066. allows — phép, sâu, một cách
+2067. appeal — kháng cáo, kháng án, hấp dẫn
+2068. applied — nộp, đơn, áp dụng
+2069. appropriate — thích hợp, phù hợp, thích đáng
+2070. artists — nghệ sĩ, họa sĩ, nhà văn
+2071. boston — 
+2072. ca — va, hy vọng, bon jour
+2073. confirmed — xác nhận, khẳng định, xác thực
+2074. device — thiết bị, kích hoạt, hoạt động
+2075. drama — kịch, vở, bi kịch
+2076. entry — mục, lối, đột nhập
+2077. era — kỷ nguyên, thời đại, kỉ nguyên
+2078. factor — yếu tố, nhân tố, tính
+2079. feed — nuôi, ăn, hình ảnh
+2080. golden — vàng, hoàng kim, phụ
+2081. grant — ban, trợ cấp, tài trợ
+2082. grown — trưởng thành, lớn, người lớn
+2083. heads — đầu, cúi, đồng
+2084. hoping — hy vọng, hi vọng, mong
+2085. keeps — mãi, tiếp tục, cứ
+2086. lawyer — luật sư, luật, giỏi
+2087. legs — chân, đùi, gãy
+2088. lying — nói dối, nằm, dối trá
+2089. measures — biện pháp, nửa vời, cực đoan
+2090. mistake — sai lầm, phạm, nhầm lẫn
+2091. ms — foley, quý, hai chữ
+2092. muslim — 
+2093. organizations — tổ chức, y, l
+2094. platform — ga, sân, bục
+2095. pool — hồ, bể bơi, bơi
+2096. pulled — kéo, lôi, rút
+2097. regarding — liên quan, liên lạc, yêu cầu
+2098. relations — quan hệ, mối, họ hàng
+2099. requires — đòi hỏi, yêu cầu, nhân vật
+2100. route — đường, tuyến, lộ trình
+2101. saved — cứu, cứu mạng, tiết kiệm
+2102. schedule — lịch, lịch trình, tiến độ
+2103. scientific — khoa học, khám phá, tính
+2104. shoes — giày, đôi, giầy
+2105. smoke — hút, khói, thuốc
+2106. squad — đội, tiểu đội, tuần tra
+2107. teach — dạy, dạy dỗ, trường
+2108. testing — thử nghiệm, kiểm tra, thử
+2109. tests — xét nghiệm, kiểm tra, thử nghiệm
+2110. values — giá trị, coi trọng, tiêu chuẩn
+2111. walked — bước, bộ, cửa
+2112. williams — cắn câu, xà bông, khuấy động
+2113. ya — hẹn, gặp, rất
+2114. abuse — lạm dụng, ngược đãi, bạo hành
+2115. angry — tức giận, giận, giận dữ
+2116. businesses — doanh nghiệp, làm ăn, kinh doanh
+2117. candidate — ứng cử viên, ứng viên, âm mưu sát hại
+2118. comfortable — thoải mái, dễ chịu, tiện nghi
+2119. concern — quan tâm, mối, bận tâm
+2120. developing — phát triển, ngầm, phòng thí nghiệm
+2121. discuss — thảo luận, bàn, bàn bạc
+2122. elections — bầu cử, cuộc, can thiệp
+2123. emotional — cảm xúc, xúc động, tình cảm
+2124. et — vân, tua, in
+2125. everywhere — khắp, nơi, khắp nơi
+2126. facilities — cơ sở, vật chất, trang thiết bị
+2127. falling — rơi, té, ngã
+2128. fox — cáo, bắp cải, fox river
+2129. guns — súng, khẩu, súng ống
+2130. hole — lỗ, hố, lỗ đen
+2131. holiday — nghỉ, kỳ, lễ
+2132. interests — lợi ích, quyền lợi, sở thích
+2133. internal — nội bộ, nội, tạng
+2134. ireland — 
+2135. italian — ý, ám sát, milly
+2136. italy — ý, guys, a
+2137. jersey — áo, new jersey, hawks
+2138. laugh — cười, make, nhạo
+2139. leg — chân, gãy, đùi
+2140. letters — thư, lá, chữ cái
+2141. liberal — tự do, đảng, hào phóng
+2142. listening — nghe, lắng nghe, nhạc
+2143. ll — để, quay, tao
+2144. loves — yêu, yêu thương, yêu quý
+2145. lunch — trưa, bữa, ăn
+2146. max — tối đa, hannah, cạn
+2147. milk — sữa, vắt, đậu nành
+2148. pack — gói, thu dọn, bầy
+2149. payment — thanh toán, công, khoản
+2150. perform — thực hiện, biểu diễn, trình diễn
+2151. recorded — ghi, ghi âm, ghi nhận
+2152. relatively — tương đối, cỡ, chẩn đoán
+2153. sector — khu vực, khu, phân
+2154. sharing — chia sẻ, chia, chung
+2155. snow — tuyết, rơi, dày
+2156. storm — bão, cơn, giông
+2157. streets — đường phố, phố, lang thang
+2158. strike — tấn công, đình công, không kích
+2159. studio — thu, trường quay, phòng
+2160. sub — tàu ngầm, lặn, lò
+2161. weak — yếu, yếu đuối, yếu ớt
+2162. youtube — 
+2163. actor — diễn viên, nam, vai
+2164. advance — ứng, tiến quân, tiến
+2165. apartment — căn hộ, căn, thuê
+2166. asia — 
+2167. chain — chuỗi, xích, dây xích
+2168. chapter — chương, đoạn, hội
+2169. committed — cam kết, tận tâm, phạm tội
+2170. confidence — tự tin, tin tưởng, niềm
+2171. cook — nấu, nấu ăn, đầu bếp
+2172. cute — dễ thương, xinh, đáng
+2173. equal — bình đẳng, ngang, ngang hàng
+2174. fake — giả, giả mạo, giả tạo
+2175. finance — tài chính, tài trợ, ngành
+2176. focused — tập trung, chú ý, công việc
+2177. hits — lượt, trúng, đâm
+2178. identity — danh tính, thân phận, nhân dạng
+2179. journey — hành trình, chuyến, du hành
+2180. kitchen — bếp, nhà bếp, sàn
+2181. korea — 
+2182. leads — dẫn, đầu mối, manh mối
+2183. maintain — duy trì, trật tự, vững
+2184. measure — đo, biện pháp, thước đo
+2185. mm — ly, tự động
+2186. numerous — dõi, vô số, hàng loạt
+2187. owners — chủ, chủ nhân, doanh nghiệp
+2188. posts — vị trí, đăng, bài
+2189. properties — đặc tính, bất động sản, tài sản
+2190. quiet — im lặng, yên lặng, yên tĩnh
+2191. revealed — tiết lộ, lộ, hé
+2192. specifically — đặc biệt, cụ thể, chính xác
+2193. split — chia, tách, chia tay
+2194. task — nhiệm vụ, đặc nhiệm, hoàn thành
+2195. taxes — thuế, đóng, nộp
+2196. taylor — z, n, cmnd
+2197. twenty — mươi
+2198. urban — đô thị, thành thị, dân cư
+2199. acts — hành động, hành vi, khủng bố
+2200. affected — ảnh hưởng, tác động, tế bào
+2201. aircraft — máy bay, phi cơ, hạm
+2202. applications — ứng dụng, đơn, vô hạn
+2203. approved — chấp thuận, phê chuẩn, phê duyệt
+2204. approximately — khoảng, xấp xỉ, vào khoảng
+2205. argument — tranh cãi, cãi, tranh luận
+2206. arrested — bắt, bắt giữ, tội
+2207. claimed — tuyên bố, khẳng định, đòi
+2208. conflict — xung đột, mâu thuẫn, tranh chấp
+2209. considering — cân nhắc, xem xét, xét
+2210. corporate — tập đoàn, doanh nghiệp, công ty
+2211. debate — tranh luận, tranh cãi, thảo luận
+2212. determined — quyết tâm, xác định, kiên quyết
+2213. distribution — phân phối, sản xuất, phân phát
+2214. documents — tài liệu, giấy tờ, văn bản
+2215. escape — thoát, trốn, lối thoát
+2216. extended — mở rộng, gia hạn, phụ trội
+2217. factors — yếu tố, nhân tố, toàn cầu
+2218. faster — nhanh, càng, mau
+2219. fault — lỗi, tất cả, do
+2220. fill — đầy, điền, lấp
+2221. films — phim, sản xuất, bộ
+2222. flowers — hoa, bông, bó
+2223. friendly — thân thiện, thân mật, thân thiết
+2224. ladies — quý, nữ, lão
+2225. lay — nằm xuống, nằm, đẻ
+2226. lights — đèn, tắt, ánh sáng
+2227. millions — hàng triệu, triệu, triệu đô
+2228. mixed — trộn, lẫn lộn, lẫn
+2229. phase — giai đoạn, thời kỳ, pha
+2230. properly — đàng hoàng, thích đáng, tử tế
+2231. pure — thuần khiết, tinh khiết, trong sạch
+2232. reduced — giảm, cắt giảm, bớt
+2233. requirements — yêu cầu, đáp ứng, điều kiện
+2234. residents — cư dân, dân, cư trú
+2235. revenue — thu nhập, doanh thu, lợi nhuận
+2236. sam — chất, con trai, mít ướt
+2237. sat — ngồi, vệ tinh, cạnh
+2238. secure — an toàn, bảo mật, đường dây
+2239. smile — cười, nụ, mỉm
+2240. strange — lạ, kỳ lạ, kì lạ
+2241. talent — tài năng, tài, năng khiếu
+2242. temperature — nhiệt độ, thân nhiệt, sốt
+2243. thousand — ngàn, nghìn
+2244. tony — hội thảo, đăng ký, công chức
+2245. troops — quân, binh lính, quân đội
+2246. truck — xe tải, xe, chở
+2247. votes — phiếu, bầu, bỏ phiếu
+2248. ah — san, conan, kun
+2249. authorities — chức trách, chính quyền, thẩm quyền
+2250. basically — cơ bản, về, căn bản
+2251. besides — cạnh, ngoài, ngoài ra
+2252. bird — chim, loài, máy bay
+2253. blame — trách, đổ, lỗi
+2254. bob — shilling, si, linh
+2255. bowl — bát, chén, tô
+2256. causes — gây, nguyên nhân, triệu chứng
+2257. chicken — gà, rán, thịt
+2258. collected — thu thập, sưu tập, sưu tầm
+2259. context — bối cảnh, ngữ cảnh, hoàn cảnh
+2260. coverage — tin tức, truyền thông, trực tiếp
+2261. determine — xác định, quyết định, nguyên nhân
+2262. display — trưng bày, trình diễn, hiển thị
+2263. dying — sắp, hấp hối, dần
+2264. elected — bầu, đắc cử, bầu chọn
+2265. examples — ví dụ, gương, làm gương
+2266. experienced — kinh nghiệm, trải, nghiệm
+2267. falls — rơi, thác, ngã
+2268. false — giả, sai, giả mạo
+2269. fired — sa thải, đuổi, nổ súng
+2270. forgot — quên, mất, suýt
+2271. funding — tài trợ, quỹ, ngân sách
+2272. identified — xác định, nhận dạng, nhận diện
+2273. iii — 
+2274. incredible — kinh ngạc, phi thường, lạ thường
+2275. inspired — cảm hứng, truyền cảm hứng, thôi thúc
+2276. launched — phóng, khởi động, thăm dò
+2277. ma — thưa, phu nhân, rõ
+2278. meat — thịt, miếng, tươi
+2279. ministry — bộ, tác, bộ trưởng
+2280. mode — chế độ, trạng thái, kích hoạt
+2281. neck — cổ, bẻ, gãy
+2282. noticed — để ý, chú ý, nhận
+2283. novel — tiểu thuyết, cuốn, đầu tay
+2284. obvious — rõ ràng, hiển nhiên, rõ
+2285. passing — ngang, qua đời, trôi
+2286. positions — vị trí, tư thế, nguyên vị trí
+2287. remaining — sót, tấm, trận
+2288. scored — điểm, ghi bàn, ghi
+2289. shirt — áo, sơ mi, cởi
+2290. shots — phát, tiêm, nổ súng
+2291. slowly — chậm, từ, chậm rãi
+2292. stadium — sân, vận động, hông
+2293. stores — cửa hàng, kho, cửa hiệu
+2294. surgery — phẫu thuật, mổ, ca
+2295. trading — giao dịch, buôn bán, trao đổi
+2296. tuesday — thứ ba, triển lãm, mở cửa
+2297. vision — tầm, linh cảm, ảo ảnh
+2298. whenever — bất cứ, lúc nào, mỗi
+2299. worried — lo lắng, lo, hơi
+2300. zero — feet, nhắc, con số
+2301. alex — 
+2302. allowing — phép, cổ phiếu, loài
+2303. begins — bắt đầu, bắt đầu từ, câu chuyện
+2304. champion — vô địch, nhà vô địch, capua
+2305. charged — buộc tội, sạc, nạp
+2306. cream — kem, bôi, sữa
+2307. crisis — khủng hoảng, trung niên, tài chính
+2308. daniel — chắc chú, ảo, nhà tiên tri
+2309. delivered — giao, chuyển, thư
+2310. editor — biên tập, biên tập viên, tổng biên tập
+2311. estimated — ước tính, thời gian, khoảng
+2312. eu — 
+2313. giant — khổng lồ, bự, to
+2314. iran — 
+2315. jail — tù, ngồi tù, nhà tù
+2316. jim — jim levenstein, treo giò, michelle flaherty
+2317. kingdom — vương quốc, thể hiện, trời
+2318. literature — văn học, văn chương, tài liệu
+2319. mayor — thị trưởng, chức, ứng cử
+2320. minor — thành niên, nhỏ, nhẹ
+2321. moments — khoảnh khắc, giây phút, khắc
+2322. opposite — ngược lại, đối diện, trái ngược
+2323. orange — cam, màu, màu da cam
+2324. ourselves — bản thân, tự, chính
+2325. pages — trang, giấy, nhật ký
+2326. remained — ẩn, cơ thể, phần
+2327. selection — lựa chọn, tuyển chọn, chọn lọc
+2328. serving — phục vụ, phụng sự, chung thân
+2329. signal — tín hiệu, sóng, ra hiệu
+2330. stream — suối, dòng, xuôi
+2331. struggle — đấu tranh, vật lộn, vùng vẫy
+2332. suicide — tự sát, tự tử, cảm tử
+2333. talked — nói chuyện, bàn, kể
+2334. theme — chủ đề, đề tài, giải trí
+2335. thursday — thứ, năm, hôm nay
+2336. tiny — nhỏ xíu, tí hon, nhỏ bé
+2337. typically — thường, cơ bản, tiêu biểu
+2338. un — tiếng, thuyền
+2339. unfortunately — may, tiếc, thay
+2340. usual — thường lệ, bình thường, mọi khi
+2341. vehicles — xe, phương tiện, xe cộ
+2342. virginia — 
+2343. voted — bỏ phiếu, bầu, biểu quyết
+2344. voting — bỏ phiếu, bầu cử, biểu quyết
+2345. walls — tường, bức, xuyên
+2346. wave — sóng, vẫy, làn sóng
+2347. alcohol — rượu, cồn, rượu bia
+2348. assembly — tập kết, lắp ráp, hội đồng
+2349. breakfast — sáng, bữa, điểm tâm
+2350. bright — tươi sáng, chói, sáng sủa
+2351. brings — mang, điều, đem
+2352. capable — khả năng, năng lực, hoàn toàn
+2353. carrying — mang, chở, thai
+2354. chosen — chọn, chọn lựa, lựa chọn
+2355. combination — kết hợp, tổ hợp, mã
+2356. conservative — bảo thủ, dì, cộng hòa
+2357. customer — khách hàng, khách, hài lòng
+2358. cutting — cắt, đứt, chặt
+2359. desire — mong muốn, khao khát, ham muốn
+2360. destroyed — phá hủy, tiêu diệt, hủy
+2361. draft — bản, nháp, dự thảo
+2362. drunk — say, rượu, say xỉn
+2363. essential — cần thiết, thiết yếu, thành phần
+2364. fail — thất bại, rớt, trượt
+2365. familiar — quen, quen thuộc, thân quen
+2366. finds — phát hiện, ảnh, khi
+2367. granted — chấp thuận, cấp, điều ước
+2368. guilty — tội, tội lỗi, phạm tội
+2369. humans — con người, loài người, nhân loại
+2370. hundreds — trăm, hàng, đô
+2371. id — phiền muộn, căn cước, giấy tờ
+2372. improved — cải thiện, tiến bộ, cải tiến
+2373. jewish — do thái, dân, do
+2374. largely — phần lớn, đại biểu, hầu như
+2375. laughing — cười, nhạo, đùa
+2376. markets — thị trường, chợ, alaska
+2377. medium — trung bình, ngoại cảm, cỡ
+2378. ohio — 
+2379. opportunities — cơ hội, thú vị, riêng
+2380. papers — giấy tờ, giấy, báo
+2381. perfectly — hoàn hảo, hoàn toàn, một cách
+2382. recommend — đề nghị, khuyên, giới thiệu
+2383. referred — giới thiệu, gọi là, nhắc
+2384. relevant — liên quan, thích đáng, y học
+2385. seek — tìm kiếm, trốn, kiếm
+2386. sending — gửi, cử, gởi
+2387. solo — một mình, độc tấu, album
+2388. spoke — nói chuyện, lần, tiếng
+2389. stands — đứng, cản, vững
+2390. talks — đàm phán, nói chuyện, kể
+2391. ticket — vé, phạt, tấm
+2392. unable — thể, không thể, tiếc
+2393. upset — buồn, khó chịu, bực
+2394. wing — cánh, gãy, khu
+2395. answers — trả lời, câu, cần câu
+2396. birds — chim, hót, chim chóc
+2397. bomb — bom, quả, trái
+2398. creative — sáng tạo, sáng tác, độc đáo
+2399. cycle — chu kỳ, vòng, tuần hoàn
+2400. dealing — đối phó, đối mặt, đối đầu
+2401. directed — chỉ dẫn, đạo diễn, trực tiếp
+2402. don — quan tâm, đừng, chẳng
+2403. educational — giáo dục, học vấn, văn hóa
+2404. entertainment — giải trí, tiêu khiển, ngành
+2405. extreme — cực đoan, khắc nghiệt, cực kỳ
+2406. facility — cơ sở, giam giữ, viện
+2407. fields — đồng, cánh, mía
+2408. goods — hàng hóa, thể thao, hàng
+2409. hang — treo cổ, treo, cúp
+2410. holds — nắm, giữ, chứa
+2411. info — thông tin, moi, tin tức
+2412. mainly — chủ yếu, sản xuất, thuốc mỡ
+2413. maximum — tối đa, mức, đạt
+2414. newspaper — báo, tờ, báo chí
+2415. offering — đề nghị, dâng, hiến
+2416. painting — tranh, bức, vẽ
+2417. republic — cộng, hòa, nền
+2418. reserve — dự trữ, bảo tồn, dự bị
+2419. returns — trở, trở lại, li
+2420. row — chèo, liên tiếp, phơi phới
+2421. salt — muối, lọ, mặn
+2422. scared — sợ, sợ hãi, hoảng sợ
+2423. scottish — 
+2424. shares — cổ phần, cổ phiếu, chia sẻ
+2425. statistics — thống kê, số liệu, tăng trưởng
+2426. switch — công tắc, đổi, bật
+2427. territory — lãnh thổ, lãnh địa, địa bàn
+2428. threat — đe dọa, mối, đe doạ
+2429. tickets — vé, phạt, tấm
+2430. wales — 
+2431. adults — người lớn, trưởng thành, vé
+2432. affect — ảnh hưởng, tác động, gây
+2433. appointed — bổ nhiệm, chỉ định, đại sứ
+2434. armed — vũ trang, trang bị, vũ khí
+2435. aside — sang, bên, tránh
+2436. assistance — hỗ trợ, trợ giúp, giúp đỡ
+2437. bell — chuông, rung, bấm
+2438. blow — nổ, thổi, tung
+2439. bond — liên kết, mối, trái phiếu
+2440. boyfriend — trai, bạn, bồ
+2441. careful — cẩn thận, cẩn trọng, thận trọng
+2442. circumstances — hoàn cảnh, tình huống, trường hợp
+2443. communications — liên lạc, truyền thông, đứt
+2444. concerns — lo ngại, mối, bận tâm
+2445. controlled — kiểm soát, điều khiển, khống chế
+2446. corporation — tập đoàn, công ty, ceo
+2447. cry — khóc, khóc lóc, kêu
+2448. danger — nguy hiểm, nguy, hiểm nguy
+2449. deals — thỏa thuận, giao dịch, thương lượng
+2450. delivery — giao, hàng, vận chuyển
+2451. deserve — xứng đáng, đáng, xứng
+2452. devices — thiết bị, điện tử, ghi âm
+2453. dollar — la, đô la, một đô
+2454. dreams — mơ, giấc, ước mơ
+2455. empty — trống rỗng, trống, rỗng
+2456. enjoyed — thích, thích thú, tận hưởng
+2457. explained — giải thích, như, bằng
+2458. faces — mặt, gương mặt, khuôn mặt
+2459. folks — người thân, quý vị, dân
+2460. fucked — tiêu, làm tình, phang
+2461. gender — giới tính, giới, bình đẳng
+2462. instance — ví dụ, thí dụ, chẳng hạn
+2463. kim — n, xu
+2464. kinda — hơi, khá, kiểu
+2465. matches — khớp, diêm, trùng
+2466. mile — dặm, km, cây số
+2467. motion — chuyển động, kiến nghị, đề nghị
+2468. moves — di chuyển, chiêu, chuyển động
+2469. nick — chỏm, rạch, phì
+2470. pacific — 
+2471. prize — giải thưởng, phần thưởng, giải
+2472. realized — nhận, chợt, vừa
+2473. reasonable — hợp lý, lý lẽ, biết điều
+2474. receiving — nhận, thông điệp, chia sẻ
+2475. register — đăng ký, két, thu ngân
+2476. resolution — nghị quyết, giải pháp, bản
+2477. rural — nông thôn, vùng, quê
+2478. ryan — max ryan, lindsey, cleveland
+2479. saving — cứu, cứu mạng, để dành
+2480. sees — hành vi, khủng bố, phát hiện
+2481. singing — hát, hót, ca
+2482. spain — 
+2483. tools — dụng cụ, công cụ, đồ nghề
+2484. typical — điển hình, tiêu biểu, thông thường
+2485. universe — vũ trụ, tồn tại, tạo
+2486. warning — cảnh báo, cảnh cáo, báo động
+2487. wars — cuộc chiến, chiến tranh, chiến
+2488. wednesday — thứ tư, tư, ashford
+2489. admit — thừa nhận, thú nhận, công nhận
+2490. attitude — thái độ, quan điểm, tỏ
+2491. branch — chi nhánh, cành, nhánh
+2492. brazil — mason, chuyển, đến
+2493. conducted — tiến hành, thực hiện, thử nghiệm
+2494. decades — thập kỷ, thập kỉ, chục
+2495. dedicated — cống hiến, tận tâm, tận tụy
+2496. definition — định nghĩa, nghĩa, xác định
+2497. drawing — vẽ, tranh, bản vẽ
+2498. favor — ân huệ, đặc ân, giúp
+2499. flag — cờ, lá, cờ trắng
+2500. frame — khung, đổ, gài
